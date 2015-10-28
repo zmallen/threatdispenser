@@ -1,0 +1,5852 @@
+backfill
+background count
+background radiation
+back-haul airlift
+backscatter
+back-scattering
+backshore
+back tell
+back-up
+backwash
+balance
+balanced stock(s)
+balance station zero
+bale cubic capacity
+balisage
+ballistic missile
+ballistic missile early warning system
+ballistics
+ballistic trajectory 
+ballistic wind
+balloon barrage
+balloon reflector
+bandwidth
+bank angle
+bar
+bare base
+barge
+barometric altitude
+barrage
+barrage fire
+barrage jamming
+barricade
+barrier
+barrier combat air patrol
+barrier forces
+barrier, obstacle, and mine warfare plan
+bar scale
+base
+base boundary
+base cluster
+base cluster commander
+base cluster operations center
+base commander
+base complex
+base defense
+base defense forces
+base defense operations center
+base defense zone
+base development (less force beddown)
+base development plan
+base element
+base line
+baseline costs
+base map
+base of operations
+base period
+base plan
+base section
+base support installation
+base surge
+base unit
+basic cover
+basic encyclopedia
+basic intelligence
+basic load
+basic military route network
+basic research
+basic stocks
+basic stopping power
+basic tactical organization
+basic undertakings
+basis of issue
+bathymetric contour
+battalion landing team
+battery
+battery center
+battery (troop) left (right)
+battle damage assessment
+battle damage repair
+battlefield coordination detachment
+battlefield illumination
+battlefield surveillance
+battle force
+battle injury
+battle management
+battle reserves
+battle rhythm
+battlespace
+battlespace awareness
+beach
+beach capacity
+beach group
+beachhead
+beach landing site
+beach marker
+beachmaster
+beachmaster unit
+beach minefield
+beach organization
+beach party
+beach party commander
+beach photography
+beach reserves
+beach support area
+beach survey
+beach width
+beam rider
+beam width
+bearing
+beaten zone
+begin morning civil twilight
+begin morning nautical twilight
+beleaguered
+berm, natural
+besieged
+bight
+bilateral infrastructure
+bill
+billet
+binding
+bin storage
+biographical intelligence
+biological agent
+biological half-time
+biological hazard
+biological warfare
+biological weapon
+biometric
+biometrics
+black
+black list
+black propaganda
+blast effect
+blast line
+blast wave
+blast wave diffraction
+bleeding edge
+blind transmission
+blister agent
+blocking and chocking
+blocking position
+block shipment
+block stowage loading
+blood agent
+blood chit
+blood chit (intelligence)
+blowback
+Blue Bark
+blue force tracking
+board
+boat diagram
+boat group
+boat lane
+boat space
+boattail
+boat wave
+bomb disposal unit
+bomber
+bomb impact plot
+bombing angle
+bombing run
+bomb release line
+bomb release point
+bona fides
+bonding
+booby trap
+booster
+boost phase
+border
+border break
+border crosser
+boresafe fuze
+bottom mine
+bound
+boundary
+bouquet mine
+bracketing
+branch
+breakaway
+breakbulk cargo
+breakbulk ship
+breaker
+breaker angle
+breakoff position
+break-up
+brevity code
+bridgehead
+bridgehead line
+briefing
+brigade
+broach
+buddy-aid
+buffer distance
+buffer zone
+bug
+bugged
+building systems
+buildup
+bulk cargo
+bulk petroleum product
+bulk storage
+bullseye
+bureau
+burn notice
+burnout
+burnout velocity
+burn-through range
+cache
+calibrated focal length
+call fire
+call for fire
+call sign
+camera axis
+camera axis direction
+camera calibration
+camera cycling rate
+camera nadir
+camouflage
+camouflage detection photography
+camouflet
+campaign
+campaign plan
+campaign planning
+canalize
+candidate target list
+cannibalize
+cannot observe
+cantilever lifting frame
+capability
+capacity load (Navy)
+capstone publications
+capstone requirements document
+capsule
+captive firing
+cardinal point effect
+caretaker status
+cargo classification (combat loading)
+cargo increment number
+cargo outturn message
+cargo outturn report
+cargo sling
+cargo tie-down point
+cargo transporter
+carpet bombing
+carrier air wing
+carrier battle group
+carrier striking force
+cartridge actuated device
+CARVER
+case
+casual
+casualty
+casualty category
+casualty evacuation
+casualty receiving and treatment ship
+casualty status
+casualty type
+catalytic attack
+catalytic war
+catapult
+catastrophic event
+categories of data
+causeway
+causeway launching area
+caveat
+C-day
+cease fire
+cease fire line
+ceiling
+celestial guidance
+celestial sphere
+cell
+cell system
+censorship
+center
+center of burst
+center of gravity
+centigray
+central control officer
+centralized control
+centralized receiving and shipping point
+centrally managed item
+central procurement
+chaff
+chain
+chain of command
+Chairman of the Joint Chiefs of Staff instruction
+Chairman of the Joint Chiefs of Staff manual
+Chairman of the Joint Chiefs of Staff memorandum of policy
+Chairman’s program assessment
+Chairman’s program recommendations
+chalk commander
+chalk number
+chalk troops
+challenge
+chancery
+change detection
+channel airlift
+characteristic actuation width
+characteristic detection probability
+characteristic detection width
+charged demolition target
+chart base
+chart index
+chart location of the battery
+chart series
+chart sheet
+check firing
+checkout
+checkpoint
+check sweeping
+chemical agent
+chemical agent cumulative action
+chemical, biological, radiological, and nuclear defense
+chemical, biological, radiological, and nuclear environment
+chemical, biological, radiological, and nuclear hazard
+chemical, biological, radiological, and nuclear protection
+chemical, biological, radiological, and nuclear sense
+chemical, biological, radiological, and nuclear shape
+chemical, biological, radiological, and nuclear shield
+chemical, biological, radiological, and nuclear sustain
+chemical, biological, radiological, nuclear, and high-yield explosive hazards
+management
+chemical, biological, radiological, nuclear, or high-yield explosives incident
+chemical, biological, radiological, or nuclear incident
+chemical, biological, radiological, or nuclear weapon
+chemical dose
+chemical hazard
+chemical horn
+chemical monitoring
+chemical survey
+chemical warfare
+chemical weapon
+chief Army, Navy, Air Force, or Marine Corps censor
+chief of mission
+chief of staff
+chronic radiation dose
+chuffing
+cipher
+circular error probable
+civic action
+civil administration
+civil affairs
+civil affairs activities
+civil affairs agreement
+civil affairs operations
+civil augmentation program
+civil authorities
+civil censorship
+civil damage assessment
+civil defense
+civil defense emergency
+civil defense intelligence
+civil disturbance
+civil disturbance readiness conditions
+civil emergency
+civilian internee
+civilian internee camp
+civil-military medicine
+civil-military operations
+civil-military operations center
+civil nuclear power
+civil requirements
+civil reserve air fleet
+civil support
+civil transportation
+clandestine operation
+classes of supply
+classification
+classification of bridges and vehicles
+classified information
+classified matter
+clean aircraft
+cleansing station
+clear
+clearance capacity
+clearance decontamination
+clearance rate
+clearing operation
+clock code position
+close air support
+close-controlled air interception
+closed area
+close support
+close support area
+closure
+closure minefield
+closure shortfall
+cloud amount
+cloud chamber effect
+cloud top height
+cluster bomb unit
+clutter
+coalition
+coalition action
+coarse mine
+coassembly
+coastal convoy
+coastal frontier
+coastal refraction
+coastal sea control
+code
+code word
+cold war
+collaborative purchase
+collapse depth
+collate
+collateral damage
+collection
+collection (acquisition)
+collection agency
+collection asset
+collection coordination facility line number
+collection management
+collection management authority
+collection manager
+collection operations management
+collection plan
+collection planning
+collection point
+collection requirement
+collection requirements management
+collection resource
+collective call sign
+collective protection
+collective self-defense
+collocation
+colored beach
+column formation
+column gap
+column length
+combat air patrol
+combat airspace control
+combat and operational stress
+combat and operational stress control
+combatant command
+combatant command chaplain
+combatant command (command authority)
+combatant commander
+combatant commander logistic procurement support board
+combatant commander’s required date
+combat area
+combat assessment
+combat camera
+combat cargo officer
+combat chart
+combat control team
+combat engineering
+combat forces
+combat identification
+combat information
+combat information center
+combating terrorism
+combat intelligence
+combat loading
+combat power
+combat readiness
+combat search and rescue
+combat search and rescue task force
+combat service support
+combat service support area
+combat service support element
+combat service support elements
+combat support
+combat support agency
+combat support elements
+combat support troops
+combat surveillance
+combat surveillance radar
+combat survival
+combat vehicle
+combat visual information support center
+combat zone
+combination influence mine
+combination mission/level of effort-oriented items
+combined
+combined airspeed indicator
+combined arms team
+combined force
+combined influence mine
+combined joint special operations task force
+combined operation
+combustor
+command
+command and control
+command and control system
+command assessment element
+command axis
+command center
+command channel
+command chaplain
+command controlled stocks
+command destruct signal
+command detonated mine
+command ejection system
+command element
+commander, amphibious task force
+commander, landing force
+commander’s concept
+commander’s critical information requirement
+commander’s estimate
+commander’s estimate of the situation
+commander’s intent
+command guidance
+command information
+commanding officer of troops
+command net
+command post
+command post exercise
+command relationships
+command select ejection system
+command-sponsored dependent
+commercial items
+commercial loading
+commercial vehicle
+commission
+commit
+commodity loading
+commodity manager
+commonality
+common control (artillery)
+common infrastructure
+common item
+common operating environment
+common operational picture
+common servicing
+common supplies
+common tactical picture
+common use
+common use alternatives
+common-use container
+common-user airlift service
+common-user item
+common-user logistics
+common-user military land transportation
+common-user network
+common-user ocean terminals
+common-user sealift
+common-user transportation
+communicate
+communication deception
+communication operation instructions
+communications intelligence
+communications intelligence database
+communications mark
+communications net
+communications network
+communications satellite
+communications security
+communications security equipment
+communications security material
+communications security monitoring
+communications system
+communications terminal
+communications zone
+community relations
+community relations program
+comparative cover
+compartmentation
+compass rose
+complaint-type investigation
+completeness
+complete round
+complex contingency operations
+component
+component (materiel)
+component-owned container
+composite air photography
+composite warfare commander
+composite wing
+compression chamber
+compromise
+compromised
+computed air release point
+computer intrusion
+computer intrusion detection
+computer modeling
+computer network attack
+computer network defense
+computer network exploitation
+computer network operations
+computer security
+computer simulation
+concealment
+concentration area
+concept of intelligence operations
+concept of logistic support
+concept of operations
+concept plan
+condensation cloud
+condensation trail
+condition
+conducting staff
+configuration management
+confirmation of information (intelligence)
+conflict
+conflict prevention
+confusion agent
+confusion reflector
+connecting route
+consecutive voyage charter
+consequence management
+console
+consolidated vehicle table
+consolidation
+consolidation of position
+constellation
+constitute
+constraint
+consumer 
+consumer logistics
+consumption rate
+contact
+contact burst preclusion
+contact mine
+contact point
+contact print
+contact procedure
+contact reconnaissance
+contact report
+contain
+container
+container anchorage terminal
+container control officer
+container-handling equipment
+containerization
+containership
+containership cargo stowage adapter
+contamination
+contamination avoidance
+contamination control
+contiguous zone
+continental United States
+contingency
+contingency contract
+contingency contracting
+c
+ontingency engineering management organization
+contingency operation
+contingency planning
+contingency planning facilities list program
+Contingency Planning Guidance
+contingency response program
+contingency retention stock
+contingency ZIP Code
+contingent effects
+continuity of command
+continuity of operations
+continuous fire
+continuous illumination fire
+continuous strip camera
+continuous strip imagery
+contour flight
+contour interval
+contour line
+contract administration
+contracted logistic support
+contracting officer
+contracting officer representative
+contractor management
+contractors authorized to accompany the force
+contractors not authorized to accompany the force
+contract support integration
+contract termination
+control
+control area
+control group
+control (intelligence)
+controllable mine
+controlled airspace
+controlled dangerous air cargo
+controlled effects nuclear weapons
+controlled exercise
+controlled firing area
+controlled forces
+controlled information
+controlled item
+controlled map
+controlled mosaic
+controlled passing
+controlled port
+controlled reprisal
+controlled route
+controlled shipping
+controlled substance
+controlled war
+control of electromagnetic radiation
+control point
+control zone
+conventional forces
+conventional mines
+conventional weapon
+converge
+converged sheaf
+convergence
+convergence factor
+convergence zone
+conversion angle
+conversion scale
+convoy
+escort
+convoy commodore
+convoy dispersal point
+convoy escort
+convoy joiner
+convoy leaver
+convoy loading
+convoy route
+convoy schedule
+convoy speed
+convoy terminal area
+convoy through escort
+convoy title
+cooperating agency
+cooperative logistics
+cooperative logistic support arrangements
+cooperative security location
+coordinated draft plan
+coordinated fire line
+coordinated procurement assignee
+Coordinated Universal Time
+coordinates
+coordinating agency
+coordinating altitude
+coordinating authority
+coordinating point
+coordinating review authority
+coproduction
+copy negative
+corner reflector
+corps support command
+corps troops
+correlation factor
+cost-plus award fee contract
+cost-type contract
+counterair
+counterattack
+counterbattery fire
+counterdeception
+counterdrug
+counterdrug activities
+counterdrug nonoperational support
+counterdrug operational support
+counterdrug operations
+counternarcotics
+counterespionage
+counterfire
+counterforce 
+counterguerrilla warfare
+counterinsurgency
+counterintelligence
+counterintelligence activities
+counterintelligence collection
+counterintelligence investigation
+counterintelligence operational tasking authority
+counterintelligence operations
+counterintelligence production
+counterintelligence support
+countermeasures
+countermine
+countermine operation
+countermobility operations
+countermove
+counteroffensive
+counterpreparation fire
+counterproliferation
+counterpropaganda operations
+counterreconnaissance
+countersabotage
+countersign
+countersubversion
+countersurveillance
+counterterrorism
+country cover diagram
+country team
+coup de main
+courier
+course
+course of action
+cover
+coverage
+covering fire
+covering force
+covering force area
+cover (military)
+cover search
+covert operation
+coxswain
+crash locator beacon
+crash position indicator
+crash rescue and fire suppression
+crater
+crater depth
+cratering charge
+crater radius
+creeping barrage
+creeping mine
+crest
+crested
+crisis
+crisis action planning
+crisis management
+critical asset
+critical asset list
+critical capability
+critical information
+critical infrastructure protection
+critical intelligence
+critical item
+critical item list
+criticality assessment
+critical joint duty assignment billet
+critical mass
+critical node
+critical occupational specialty
+critical point
+critical requirement
+critical safety item
+critical speed
+critical supplies and materiel
+critical sustainability item
+critical vulnerability
+critic report
+crossing area
+cross-leveling
+cross-loading (personnel)
+cross-servicing
+cross-targeting (nuclear)
+cross tell
+cruise missile
+cruising altitude
+cruising level
+crush depth
+cryogenic liquid
+cryptanalysis
+cryptochannel
+cryptographic information
+cryptologic
+cryptology
+cryptomaterial
+cryptopart
+cryptosecurity
+cryptosystem
+culminating point
+cultivation
+culture
+curb weight
+current
+current force
+current intelligence
+current, offshore
+current, rip
+curve of pursuit
+cusps
+custodian of postal effects
+custody
+customer ship
+customer wait time
+Customs Over-The-Horizon Enforcement Network
+cut-off
+cut-off velocity
+cutout
+cutter
+cutting charge
+cyber counterintelligence
+cyberspace
+cyberspace operations
+daily intelligence summary
+daily movement summary (shipping)
+damage area
+damage assessment
+damage control
+damage criteria
+damage estimation
+damage expectancy (nuclear)
+damage radius
+damage threat
+danger area
+danger close
+dangerous cargo
+danger space
+data
+database
+data block
+data code
+data element
+data item
+data link
+data link coordination net
+data mile
+date line
+date-time group
+datum
+datum (antisubmarine warfare)
+datum error (antisubmarine warfare)
+datum (geodetic)
+datum level
+datum point
+datum time (antisubmarine warfare)
+davit
+day of supply
+dazzle
+D-day
+D-day consumption/production differential assets
+D-day materiel readiness gross capability
+D-day pipeline assets
+deadline
+dead mine
+dead space
+de-arming
+debarkation
+debarkation schedule
+deceased
+decentralized control
+decentralized execution
+decentralized items
+deception
+deception action
+deception concept
+deception course of action
+deception event
+deception means
+deception objective
+deception story
+deception target
+decision
+decision point
+decision support template
+decisive engagement
+decisive point
+deck alert
+deck status light
+flight control. Navy
+declared speed
+declassification
+declassify
+declination
+decompression
+decompression chamber
+decompression sickness
+decontamination
+decontamination station
+decoy
+decoy ship
+decrypt
+deep fording capability
+deep minefield
+de facto boundary
+defended asset list
+defense area
+Defense Business Operations Fund
+defense classification
+Defense Communications System
+defense coordinating element
+defense coordinating officer
+defense critical infrastructure
+defense emergency
+defense in depth
+defense industrial base
+defense information infrastructure
+Defense Information Systems Network
+defense message system
+Defense Meteorological Satellite Program
+Defense Planning Guidance
+defense readiness condition
+Defense Satellite Communications System
+defense support of civil authorities
+Defense Support Program
+defense support to public diplomacy
+Defense Switched Network
+Defense Transportation System
+defensive coastal area
+defensive counterair
+defensive minefield
+defensive sea area
+defensive space control
+defensive zone
+defilade
+definitive care
+defoliant operation
+defoliating agent
+degaussing
+degree of risk
+de jure boundary
+delayed entry program
+delaying action
+delaying operation
+delay release sinker
+delegation of authority
+deliberate attack
+deliberate breaching
+deliberate crossing
+deliberate defense
+delivering ship
+delivery error
+demilitarized zone
+demobilization
+demolition belt
+demolition chamber
+demolition firing party
+demolition guard
+demolition kit
+demolition target
+demolition tool kit
+demonstration
+denial measure
+denied area
+departmental intelligence
+Department of Defense civilian
+Department of Defense components
+Department of Defense construction agent
+Department of Defense container system
+Department of Defense Intelligence Information System
+Department of Defense Intelligence Information System Enterprise
+Department of Defense intelligence production
+Department of Defense internal audit organizations
+Department of Defense support to counterdrug operations
+Department of the Air Force
+Department of the Army
+Department of the Navy
+departure airfield
+departure area
+departure end
+departure point
+dependents/immediate family
+deployable joint task force augmentation cell
+deployed nuclear weapons
+deployment
+deployment database
+deployment diagram
+deployment health surveillance
+deployment order
+deployment planning
+depot — 1. supply
+depot maintenance
+depth
+depth contour
+depth curve
+descriptive name
+designated planning agent
+design basis threat
+desired appreciation
+desired effects
+desired ground zero
+desired mean point of impact
+desired perception
+desired point of impact
+destroyed
+destruction
+destruction fire mission
+destruction radius
+detachment
+detailed photographic report
+detained
+detainee
+detainee collecting point
+detainee processing station
+detecting circuit
+detection
+deterioration limit
+deterrence
+deterrent options
+detonating cord
+detonator
+developmental assistance
+deviation
+diaphragm stop
+diapositive
+died of wounds received in action
+differential ballistic wind
+diffraction loading
+dip
+diplomatic authorization
+diplomatic and/or consular facility
+dip needle circuit
+direct action
+direct action fuze
+direct air support center
+direct air support center (airborne)
+directed energy
+directed-energy device
+directed-energy protective measures
+directed-energy warfare
+directed-energy weapon
+direct exchange
+direct fire
+direct illumination
+directing staff
+direction
+directional gyro indicator
+direction finding
+direction of attack
+directive
+directive authority for logistics
+direct laying
+direct liaison authorized
+director of mobility forces
+direct support
+direct support artillery
+direct supporting fire
+direct vendor delivery
+disabling fire
+disaffected person
+disarmament
+disarmed mine
+disaster assistance response team
+disaster control
+discriminating circuit
+disease and nonbattle injury
+disease and nonbattle injury casualty
+disembarkation schedule
+disengagement
+dislocated civilian
+dispatch route
+dispenser
+dispersal
+dispersal airfield
+dispersed movement pattern
+dispersed site
+dispersion
+dispersion error
+dispersion pattern
+displaced person
+display
+disposition
+disruptive pattern
+dissemination and integration
+distance
+distant retirement area
+distant support area
+distressed person
+distributed fire
+distribution
+distribution manager
+distribution pipeline
+distribution plan
+distribution point
+distribution system
+ditching
+diversion
+diversion airfield
+diversionary attack
+diversionary landing
+divert field
+diving chamber
+division
+division artillery
+doctrinal template
+doctrine
+dolly
+dome
+domestic air traffic
+domestic emergencies
+domestic intelligence
+dominant user
+dominant user concept
+doppler effect
+doppler radar
+dormant
+dose rate contour line
+dosimetry
+double agent
+double flow route
+downgrade
+downloading
+draft
+draft plan
+drag
+drag loading
+drift
+drill mine
+drone
+drop altitude
+drop height
+dropmaster
+drop message
+drop zone
+drug interdiction
+dry deck shelter
+D-to-P assets required on D-day
+D-to-P concept
+D-to-P materiel readiness gross requirement
+dual agent
+dual-capable aircraft
+dual-capable forces
+dual capable unit
+dual-firing circuit
+dual (multi)-capable weapons
+dual (multi)-purpose weapons
+dual-purpose weapon
+dual-role tanker
+dud
+dud probability
+due in
+dummy
+dummy message
+dummy minefield
+dummy run
+dump
+duplicate negative
+durable materiel
+duty status - whereabouts unknown
+dwarf dud
+dwell time
+dynamic targeting
+dynamic threat assessment
+earliest anticipated launch time
+earliest arrival date
+Early Spring
+early time
+early warning
+earmarking of stocks
+earthing
+echelon
+echeloned displacemen
+economic action
+economic order quantity
+economic potential 
+economic potential for war
+economic retention stock
+economic warfare
+effect
+effective damage
+effective US controlled ships
+ejection
+ejection systems
+ejection system
+electrode sweep
+electro-explosive device
+electromagnetic compatibility
+electromagnetic deception
+electromagnetic environment
+electromagnetic environmental effects
+electromagnetic hardening
+electromagnetic interference
+electromagnetic intrusion
+electromagnetic jamming
+electromagnetic pulse
+electromagnetic radiation
+electromagnetic radiation hazards
+electromagnetic spectrum
+electromagnetic spectrum management
+electromagnetic vulnerability
+electronic attack
+electronic imagery dissemination
+imagery in near real time. b. primary imagery dissemination
+dissemination system
+electronic intelligence
+electronic line of sight
+electronic masking
+electronic probing
+electronic protection
+electronic reconnaissance
+electronics security
+electronic warfare
+electronic warfare frequency deconfliction
+electronic warfare reprogramming
+electronic warfare support
+electro-optical-infrared countermeasure
+electro-optical intelligence
+electro-optics
+element
+element set
+elevated causeway system
+elevation
+elevation tint
+elicitation (intelligence)
+eligible traffic
+embarkation
+embarkation area
+embarkation element (unit) (group)
+embarkation officer
+embarkation order
+embarkation organization
+embarkation phase
+embarkation plans
+embarkation team
+emergency action committee
+emergency anchorage
+emergency barrier
+emergency-essential employee
+emergency interment
+emergency locator beacon
+emergency operations center
+emergency preparedness
+emergency preparedness liaison officer
+emergency priority
+emergency relocation site
+emergency repair
+emergency resupply
+emergency risk (nuclear)
+emergency substitute
+emergency support functions
+emission control
+emission control orders
+emission security
+emplacement
+employment
+enabling force
+enabling mine countermeasures
+encipher
+end evening civil twilight
+end item
+end of evening nautical twilight
+end of mission
+end state
+endurance
+endurance distance
+endurance loading
+enemy capabilities
+enemy combatant
+engage
+engagement
+engineer support plan
+enlisted terminal attack controller
+en route care
+envelopment
+environmental baseline survey
+environmental cleanup
+environmental considerations
+environmental stewardship
+equipment
+escalation
+escapee
+escape line
+escort
+escort forces
+espionage
+espionage against the United States
+essential care
+essential chemicals
+essential communications traffic
+essential elements of friendly information
+essential elements of information
+essential industry
+essential secrecy
+essential task
+establishment
+estimate
+estimative intelligence
+evacuation
+evacuation control ship
+evacuation convoy
+evacuation of dangerously exposed waters
+evacuation of port equipment
+evacuee
+evader
+evaluation
+evaluation agent
+evaluation and feedback
+evasion
+evasion aid
+evasion and escape
+evasion chart
+evasion plan of action
+event matrix
+event template
+exaggerated stereoscopy
+exceptional transport
+excess property
+exclusive economic zone
+exclusion zone
+execute order
+executing commander (nuclear weapons)
+execution planning
+executive agent
+exercise
+exercise directing staff
+exercise filled mine
+exercise incident
+exercise mine
+exercise specifications
+exercise sponsor
+exercise study
+exercise term
+exfiltration
+existence load
+exoatmosphere
+expedition
+expellee
+expendable property
+expendable supplies and materiel
+exploder
+exploitation
+exploratory hunting
+explosive filled mine
+explosive hazard
+explosive ordnance
+explosive ordnance disposal
+explosive ordnance disposal incident
+explosive ordnance disposal procedures — (*) Those particular courses or modes of<br />action taken by explosive ordnance disposal personnel for access to, diagnosis,<br />rendering safe, recovery, and final disposal of explosive ordnance or any hazardous<br />material associated with an explosive ordnance disposal incident. a. access<br />procedures 
+explosive ordnance disposal unit
+explosive train
+exposure dose
+exposure station
+extent of a military exercise
+extent of damage
+external audience
+external reinforcing force
+external support contract
+extraction parachute
+extraction zone
+fabricator
+facility
+facility substitutes
+fairway
+fallout contours
+fallout pattern
+fallout prediction
+fallout safe height of burst
+fallout wind vector plot
+false origin
+fan camera photography
+fan cameras
+fan marker beacon
+farm gate type operations
+feasibility
+feasibility assessment
+feasibility test
+federal coordinating officer
+federal modal agencies
+federal service
+federal supply class management
+federal transport agencies
+feint
+fender
+ferret
+F-hour
+field army
+field artillery
+field artillery observer
+field exercise
+field fortifications
+field headquarters
+field of fire
+field of view
+field of vision
+field ordering officer
+field press censorship
+field training exercise
+fighter cover
+fighter engagement zone
+fighter escort
+fighter sweep
+fighting load
+filler
+film badge
+filter
+final approach
+final destination
+final disposal procedures
+final governing standards
+final plan
+final protective fire
+finance support
+financial management
+fire
+fireball
+fire barrage (specify)
+fire capabilities chart
+fire control
+fire control radar
+fire control system
+fire coordination
+fire direction center
+fire for effect
+fire message
+fire mission
+fire plan
+firepower
+fires
+fire storm
+fire support
+fire support area
+fire support coordination
+fire support coordination center
+fire support coordination line
+fire support coordination measure
+fire support element
+fire support group
+fire support officer
+fire support station
+fire support team
+firing area
+firing chart
+firing circuit
+firing mechanism
+firing point
+firing system
+first light
+first responder care
+first responders
+first strike
+fission products
+fission to yield ratio
+fitted mine
+fix
+fixed ammunition
+fixed capital property
+fixed medical treatment facility
+fixed port
+fixed price type contract
+fixed station patrol
+fixer system
+flag days (red or green)
+flag officer
+flame field expedients
+flame thrower
+flammable cargo
+flank guard
+flanking attack
+flare
+flare dud
+flash blindness
+flash burn
+flash message
+flash ranging
+flash report
+flash suppressor
+flash-to-bang time
+flatrack
+flatted cargo
+fleet
+fleet ballistic missile submarine
+fleet in being
+Fleet Marine Force
+flexible deterrent option
+flexible response
+flight
+flight advisory
+flight deck
+flight deck officer
+flight following
+flight information center
+flight information region
+flight information service
+flight levels
+flight path
+flight plan
+flight plan correlation
+flight profile
+flight quarters
+flight readiness firing
+flight surgeon
+flight test
+flight visibility
+floating base support
+floating craft company
+floating dump
+floating mine
+floating reserve
+flooder
+flotation
+fly-in echelon
+foam path
+follow-up
+follow-up echelon
+follow-up shipping
+follow-up supplies
+footprint
+force
+force activity designators
+force beddown
+force closure
+force enablement
+force extension
+force health protection
+force list
+force module
+force module package
+force multiplie
+force planning
+force projection
+force protection
+force protection condition
+force protection working group
+force rendezvous
+force requirement number
+force(s)
+force sequencing
+force shortfall
+forces in being
+force sourcing
+force structure
+force tabs
+force tracking
+force visibility
+forcible entry
+fordability
+foreign assistance
+foreign consequence management
+foreign disaster
+foreign disaster relief
+foreign humanitarian assistance
+foreign instrumentation signals intelligence
+foreign intelligence
+foreign internal defense
+foreign military sales
+foreign military sales trainees
+foreign national
+foreign nation support
+foreign object damage
+foreign service national
+foreshore
+format
+formation
+formatted message text
+ormerly restricted data
+form lines
+forward aeromedical evacuation
+forward air controller
+forward air controller (airborne)
+forward area
+forward arming and refueling point
+forward aviation combat engineering
+forward edge of the battle area
+forward line of own troops
+forward logistic site
+forward-looking infrared
+forward oblique air photograph
+forward observer
+forward operating base
+forward operating location
+forward operating site
+forward operations base
+forward recovery mission profile
+forward resuscitative care
+forward slope
+forward tell
+foundation data
+four-round illumination diamond
+463L system
+FPCON ALPHA
+FPCON BRAVO
+FPCON CHARLIE
+FPCON DELTA
+fragmentary order
+frame
+free air anomaly
+free air overpressure
+freedom of navigation operations
+free drop
+free fall
+free field overpressure
+free-fire area
+free form message text
+free mail
+free mine
+free play exercise
+free rocket
+freight consolidating activity
+freight distributing activity
+frequency deconfliction
+frequency management
+friendly
+friendly fire
+friendly force information requirement
+front
+frontal attack
+frustrated cargo
+full charge
+full mission-capable
+full mobilization
+full-spectrum superiority
+functional component command
+functional damage assessment
+functional kill
+functions
+fusion
+fuze cavity
+gadget
+gap
+gap filler radar
+gap (imagery)
+gap marker
+garble
+garnishing
+garrison force
+gear
+general agency agreement
+general air cargo
+general and complete disarmament
+general cargo
+general engineering
+general map
+general military intelligence
+general orders
+general purchasing agents
+general quarters
+general staff
+general stopping power
+general support
+general support artillery
+general support-reinforcing
+general unloading period
+general war
+generation (photography)
+geographic coordinates
+geographic reference points
+georef
+geospatial engineering
+geospatial information
+geospatial information and services
+geospatial intelligence
+geospatial-intelligence contingency package
+glide bomb
+glide mode
+Global Air Transportation Execution System
+Global Combat Support System-Joint
+Global Command and Control System
+Global Decision Support System
+global distribution
+global distribution of materiel
+Global Information Grid
+global information infrastructure
+Global Network Operations Center
+Global Patient Movement Requirements Center
+Global Positioning System
+global transportation management
+Global Transportation Network
+go no-go
+governing factors
+government-owned, contract-operated ships
+government-owned, Military Sealift Command-operated ships
+gradient
+gradient circuit
+grand strategy
+graphic
+graphic scale
+grapnel
+graticule
+graticule ticks
+graves registration program
+gravity extraction
+grazing fire
+Greenwich Mean Time
+grey propaganda
+grid
+grid bearing
+grid convergence
+grid convergence factor
+grid coordinates
+grid coordinate system
+grid interval
+grid magnetic angle
+grid navigation
+grid north
+grid ticks
+grid variation
+grivation
+grossly transportation feasible
+gross weight
+ground alert
+ground combat element
+ground control
+ground-controlled approach procedure
+ground-controlled interception
+ground fire
+ground liaison officer
+ground mine
+ground observer center
+ground return
+ground speed
+ground visibility
+ground zero
+group
+group of targets
+group rendezvous
+guard
+guarded frequencies
+guerrilla
+guerrilla force
+guerrilla warfare
+guidance station equipment
+guided missile
+guide specification
+guinea-pig
+gull
+gun
+gun carriage
+gun-target line
+gun-type weapon
+gyromagnetic compass
+half-life
+half-residence time
+half thickness
+handling (ordnance)
+handover
+handover/crossover
+handover line
+hang fire
+harassing fire
+harassment
+harbor
+harbor defense
+hard beach
+hardened site
+hard missile base
+hardstand
+hardware
+harmonization
+hasty attack
+hasty breaching
+hasty breaching (land mine warfare)
+hasty crossing
+hasty defense
+hatch
+hatch list
+havens (moving)
+hazard
+hazards of electromagnetic radiation to fuels
+hazards of electromagnetic radiation to ordnance
+hazards of electromagnetic radiation to personnel
+heading hold mode
+heading indicator
+heading select feature
+head of contracting activity
+head-up display
+health care provider
+health hazard assessment
+health service logistic support
+health service support
+health surveillance
+health threat
+heavy antitank weapon
+heavy artillery
+heavy drop
+heavy-lift cargo
+heavy-lift ship
+height delay
+height hole
+height of burst
+helicopter direction center
+helicopter landing zone
+helicopter support team
+helicopter transport area
+helicopter wave
+helipad
+heliport
+herbicide
+HERO SAFE ordnance
+HERO SUSCEPTIBLE ordnance
+HERO UNSAFE ordnance
+Hertz-Horn
+H-hour
+high airburst
+high altitude bombing
+high altitude burst
+high-altitude low-opening parachute technique
+high-altitude missile engagement zone
+high angle
+high angle fire
+high-density airspace control zone
+high explosive cargo
+high oblique
+high-payoff target
+high-payoff target list
+high-risk personnel
+high value airborne asset protection
+high value asset control items
+high-value target
+high velocity drop
+high-water mark
+hill shading
+hinterland, far
+hinterland, near
+hi-value asset control item
+hoist
+hold
+holding anchorage
+holding attack
+holding point
+holding position
+hollow charge
+homeland
+homeland defense
+homeland security
+home recovery mission profile
+home station
+homing
+homing guidance
+homing mine
+horizon
+horizontal action mine
+horizontal error
+horizontal loading
+horizontal situation display
+horizontal situation indicator
+horizontal stowage
+horn
+hospital
+hostage
+hostage rescue
+host country
+hostile
+hostile act
+hostile casualty
+hostile environment
+hostile force
+hostile intent
+hostile track
+host nation
+host-nation support
+host-nation support agreement
+hot photo interpretation report
+hot pursuit
+hot spot
+hovering
+hovering ceiling
+howitzer
+hub
+hub and spoke distribution
+human factors
+human intelligence
+humanitarian and civic assistance
+humanitarian assistance
+humanitarian assistance coordination center
+humanitarian demining assistance
+humanitarian mine action
+humanitarian operations center
+human resources intelligence
+hung ordnance
+hunter track
+hydrogen bomb
+hydrographic chart
+hydrographic reconnaissance
+hyperbaric chamber
+hyperbolic navigation system
+hypergolic fuel
+hypersonic
+hyperspectral imagery
+hyperstereoscopy
+hypobaric chamber
+hypsometric tinting
+identification
+identification, friend or foe
+identification friend or foe personal identifier
+identification, friend or foe/selective identification feature procedures
+identification maneuver
+igloo space
+ignition system
+image format
+image motion compensation
+imagery
+imagery collateral
+imagery correlation
+imagery data recording
+imagery exploitation
+imagery intelligence
+imagery interpretation
+imagery interpretation key
+imagery pack
+imitative communications deception
+imitative electromagnetic deception
+immediate air support
+immediate decontamination
+immediate destination
+immediately vital cargo
+immediate message
+immediate mission request
+immediate nuclear support
+immediate operational readiness
+immediate response
+impact action fuze
+impact area
+impact pressure
+implementation
+implied task
+implosion weapon
+imprest fund
+imprest funds
+imprint
+improved conventional munitions
+improvised early resupply
+improvised explosive device
+improvised mine
+inactive aircraft inventory
+inactive duty training
+Inactive National Guard
+inactive status
+inbound traffic
+incapacitating agent
+incapacitating illness or injury
+incident
+incident classification
+incident command post
+incident command system
+incident management
+incident of national significance
+incidents
+in-company
+inclination angle
+incremental costs
+indefinite call sign
+independent
+independent ejection system
+independent mine
+independent review
+indicated airspeed
+indications
+indications and warning
+indicator
+indirect fire
+indirect laying
+individual equipment
+individual mobilization augmentee
+individual mobilization augmentee detachment
+individual protective equipment
+Individual Ready Reserve
+individual reserves
+individual self-defense
+individual sponsored dependent
+induced environment
+induced radiation
+induction circuit
+industrial mobilization
+industrial preparedness
+industrial preparedness program
+industrial readiness
+inert filling
+inertial guidance
+inertial navigation system
+inert mine
+in extremis
+infiltration
+inflammable cargo
+inflight phase
+inflight report
+influence field
+influence mine
+influence release sinker
+influence sweep
+information
+information assurance
+information-based processes
+information box
+information environment
+information management
+information operations
+information report
+information requirements
+information resources
+information security
+information superiority
+information system
+infrared film
+infrared imagery
+infrared linescan system
+infrared photography
+infrared pointer
+infrared radiation
+infrastructure
+initial active duty for training
+initial assessment
+initial contact report
+initial draft plan
+initial early resupply
+initial entry into Military Service
+initial issues
+initial operational capability
+initial path sweeping
+initial photo interpretation report
+initial point
+initial programmed interpretation report
+initial provisioning
+initial radiation
+initial reception point
+initial reserves
+initial response force
+initial unloading period
+initiating directive
+injury
+inland petroleum distribution system
+inland search and rescue region
+inner transport area
+innocent passage
+in-place force
+inshore patrol
+inspection
+installation
+installation commander
+installation complex
+instructional mine
+instrument approach procedure
+instrument meteorological conditions
+instruments of national power
+in support
+in support of
+insurgency
+insurgent
+Integrated Consumable Item Support
+integrated fire control system
+integrated logistic support
+integrated materiel management
+integrated planning
+integrated priority list
+integrated staff
+integrated tactical warning
+integrated warfare
+integration
+intelligence
+intelligence annex
+intelligence collection plan
+intelligence community
+intelligence contingency funds
+intelligence database
+intelligence data handling systems
+intelligence discipline
+intelligence estimate
+intelligence federation
+intelligence gathering
+intelligence information report
+intelligence interrogation
+intelligence journal
+intelligence operations
+intelligence preparation of the battlespace
+intelligence process
+intelligence-related activities
+intelligence report
+intelligence reporting
+intelligence requirement
+intelligence source
+intelligence subject code
+intelligence summary
+intelligence, surveillance, and reconnaissance
+intelligence, surveillance, and reconnaissance visualization
+intelligence system
+intensity factor
+intensity mine circuit
+intensive management
+intention
+interagency
+interagency coordination
+interceptor
+intercept point
+intercept receiver
+inter-chart relationship diagram
+interconnection
+intercount dormant period
+interdepartmental or agency support
+interdepartmental intelligence
+interdiction
+interface
+intergovernmental organization
+interim overhaul
+inter-look dormant period
+intermediate approach
+Intermediate Force Planning Level
+intermediate maintenance (field)
+intermediate marker (land mine warfare)
+intermediate objective
+intermediate-range bomber aircraft
+intermediate staging base
+intermittent arming device
+intermittent illumination
+intermodal
+intermodal support equipment
+intermodal systems
+internal audience
+internal defense and development
+internal information
+internally displaced person
+internal radiation
+internal security
+internal waters
+international arms control organization
+International Atomic Time
+international call sign
+International Convention for Safe Containers
+international cooperative logistics
+international date line
+international identification code
+international loading gauge (GIC)
+international logistics
+international logistic support
+international military education and training
+international narcotics activities
+International Organization for Standardization
+interned
+interocular distance
+interoperability
+interoperation
+interpretability
+interpretation
+interrogation (intelligence)
+inter-Service education
+inter-Service, intragovernmental agreements
+inter-Service support
+inter-Service training
+intertheater
+intertheater airlift
+intertheater patient movement
+intertheater traffic
+interval
+intervention
+interview (intelligence)
+intracoastal sealift
+intransit aeromedical evacuation facility
+intransit inventory
+intransit stock
+in-transit visibility
+intratheater
+intratheater airlift
+intratheater patient movement
+intratheater traffic
+intruder
+intrusion
+invasion currency
+inventory control
+inventory control point
+inventory management
+inventory managers
+investment costs
+ionizing radiation
+ionosphere
+IR pointer
+irregular forces
+irregular outer edge
+irregular warfare
+isodose rate line
+isolated personnel
+isolated personnel report
+issue control group
+issue priority designator
+item manager
+J-2X
+jamming
+j-axis
+jet advisory service
+jet propulsion
+jet stream
+jettison
+jettisoned mines
+joiner
+joiner convoy
+joiner section
+joint
+joint acquisition review board
+joint after action report
+joint air attack team
+joint airborne advance party
+joint airborne training
+joint air operations
+joint air operations center
+joint air operations plan
+joint amphibious operation
+joint amphibious task force
+joint base
+joint captured materiel exploitation center
+joint civil-military operations task force
+joint combined exchange training
+joint communications network
+joint concept
+joint contracting support board
+joint deployable intelligence support system
+Joint Deployment and Distribution Enterprise
+joint desired point of impact
+joint doctrine
+Joint Doctrine Planning Conference
+joint document exploitation center
+joint duty assignment
+Joint Duty Assignment List
+joint engagement zone
+Joint Facilities Utilization Board
+joint field office
+joint fires
+joint fires element
+joint fire support
+joint flow and analysis system for transportation
+joint force
+joint force air component commander
+joint force commander
+joint force land component commander
+joint force maritime component commander
+joint force special operations component commander
+joint force surgeon
+joint functions
+joint guidance, apportionment, and targeting team
+joint information bureau
+joint information system
+joint integrated prioritized target list
+joint intelligence
+joint intelligence architecture
+joint intelligence liaison element
+joint intelligence operations center
+joint intelligence preparation of the battlespace
+joint intelligence support element
+joint interagency coordination group
+joint interface control officer
+joint interrogation and debriefing center
+joint interrogation operations
+joint line of communications security board
+joint logistics
+Joint Logistics Operations Center
+joint logistics over-the-shore commander
+joint logistics over-the-shore operations
+joint manpower program
+Joint Materiel Priorities and Allocation Board
+joint meteorological and oceanographic coordination cell
+joint meteorological and oceanographic coordination organization
+joint meteorological and oceanographic officer
+joint mission-essential task
+Joint Mobility Control Group
+joint mortuary affairs office
+joint movement center
+Joint Munitions Effectiveness Manual-Special Operations
+joint network operations control center
+joint nuclear accident coordinating center
+joint operation planning
+Joint Operation Planning and Execution System
+joint operation planning process
+joint operations
+joint operations area
+joint operations area forecast
+joint operations center
+joint patient movement requirements center
+joint patient movement team
+joint personnel recovery center
+joint personnel recovery support product
+joint personnel training and tracking activity
+joint planning and execution community
+joint planning group
+joint psychological operations task force
+joint publication
+joint readiness
+joint reception center
+joint reception complex
+joint reception coordination center
+joint reception, staging, onward movement, and integration
+joint restricted frequency list
+joint security area
+joint security coordination center
+joint security coordinator
+joint servicing
+joint special operations air component commander
+joint special operations area
+joint special operations task force
+joint specialty officer or joint specialist
+joint staff
+Joint Staff doctrine sponsor
+Joint Strategic Capabilities Plan
+joint strategic exploitation center
+Joint Strategic Planning System
+joint suppression of enemy air defenses
+joint table of allowances
+joint table of distribution
+Joint Tactical Air Reconnaissance/Surveillance Mission Report
+joint targeting coordination board
+joint targeting steering group
+joint target list
+joint task force
+Joint Task Force-Civil Support
+joint task force counterintelligence coordinating authority
+joint technical augmentation cell
+Joint Technical Coordinating Group for Munitions Effectiveness
+joint terminal attack controller
+joint test publication
+joint total asset visibility
+Joint Transportation Board
+joint urban operations
+joint warfighting capabilities assessment
+Joint Worldwide Intelligence Communications System
+joint zone (air, land, or sea)
+join up
+judge advocate
+jumpmaster
+jump speed
+K-day
+key employee
+key facilities list
+key point
+key position
+keystone publications
+key terrain
+kill box
+killed in action
+killing zone
+kill probability
+kiloton weapon
+kite
+land control operations
+land forces
+landing aid
+landing area
+landing attack
+landing beach
+landing craft
+landing craft and amphibious vehicle assignment table
+landing craft availability table
+landing diagram
+landing force
+landing force supplies
+landing force support party
+landing group
+landing group commander
+landing mat
+landing plan
+landing point
+landing roll
+landing schedule
+landing sequence table
+landing ship
+landing ship dock
+landing signalman enlisted
+landing signals officer
+landing site
+landing threshold
+landing zone contro
+landing zone control party
+landmark
+land search
+lane marker
+lap
+lap course
+lap track
+lap turn
+lap width
+large-lot storage
+large-scale map
+large spread
+laser
+laser footprint
+laser guidance unit
+laser guided weapon
+laser illuminator
+laser intelligence
+laser linescan system
+laser pulse duration
+laser rangefinder
+laser seeker
+laser spot
+laser spot tracker
+laser target designating system
+laser target designator
+laser-target/gun-target angle
+laser-target line
+laser target marker
+laser target marking system
+lashing
+lashing point
+late
+lateral gain
+lateral route
+lateral spread
+lateral tell
+latest arrival date
+late time
+lattice
+launch pad
+launch time
+launch under attack
+launch window
+laundering
+law enforcement agency
+law of armed conflict
+lay
+laydown bombing
+layer depth
+lay leader
+lay reference number
+lead agency
+lead agent
+lead aircraft
+lead federal agency
+lead nation
+lead Service or agency for common-user logistics
+leapfrog
+leaver
+leaver convoy
+leaver section
+left (or right)
+left (right) bank
+letter of assist
+letter of authorization
+letter of offer and acceptance
+level of detail
+level-of-effort munitions
+level of effort-oriented items
+leverage
+L-hour
+liaison
+liberated territory
+licensed production
+life cycle
+lifeguard submarine
+life support equipment
+light artillery
+light damage
+lightening
+lighterage
+light filter
+light line
+lightweight amphibious container handler
+limited production-type item
+limited standard item
+limited war
+limiting factor
+limit of fire
+linear scale
+line of communications
+line of demarcation
+line of departure
+line of operations
+line overlap
+line-route map
+line search
+link
+link encryption
+link-lift vehicle
+link-route segments
+liquid explosive
+liquid propellant
+listening watch
+litter
+littoral
+load
+load control group
+loading
+loading chart (aircraft)
+loading plan
+loading point
+loading site
+loading time
+loadmaster
+load signal
+load spreader
+localizer
+local mean time
+local procurement
+local purchase
+lock on
+lodgment
+lodgment area
+loft bombing
+logistic assessment
+logistic estimate of the situation
+logistic implications test
+logistic marking and reading symbology
+logistic routes
+logistics
+logistics over-the-shore operation area
+logistics over-the-shore operations
+logistic sourcing
+logistic support
+logistic support (medical)
+long-range bomber aircraft
+long-range transport aircraft
+look
+loran
+lot
+low airburst
+low-altitude missile engagement zone
+low-altitude parachute extraction system
+low angle
+low angle fire
+low angle loft bombing
+low dollar value item
+low level flight
+low level transit route
+low oblique
+low velocity drop
+low visibility operations
+mach number
+magnetic bearing
+magnetic circuit
+magnetic compass
+magnetic declination
+magnetic equator
+magnetic mine
+magnetic minehunting
+magnetic north
+magnetic tape
+magnetic variation
+mail embargo
+main airfield
+main armament
+main attack
+main battle area
+main convoy
+main deck
+main detonating line
+main line of resistance
+main operating base
+main operations base
+main supply route
+maintenance area
+maintenance engineering 
+maintenance (materiel)
+maintenance status
+major combat element
+major disaster
+major force
+major nuclear power
+major operation
+major weapon system
+make safe
+management and control system (mobility)
+maneuver
+maneuverable reentry vehicle
+manifest
+manipulative electromagnetic deception
+man portable
+manpower
+manpower management
+manpower management survey
+manpower requirements
+manpower resources
+man space
+man transportable
+map
+map chart
+map convergence
+map exercise
+map index
+mapping camera
+map reference
+map reference code
+map series
+map sheet
+margin
+marginal data
+marginal information
+Marine air command and control system
+Marine air-ground task force
+Marine base
+Marine Corps special operations forces
+Marine division and wing team
+marine environment
+Marine expeditionary brigade
+Marine expeditionary force
+Marine expeditionary force (forward)
+Marine expeditionary unit
+Marine expeditionary unit (special operations capable)
+Marine Logistics Command
+Maritime Administration Ready Reserve Force
+maritime control area
+maritime defense sector
+maritime domain
+maritime domain awareness
+maritime environment
+maritime forces
+maritime interception operations
+maritime power projection
+maritime pre-positioning force operation
+maritime pre-positioning ships
+maritime search and rescue region
+maritime special purpose force
+maritime superiority
+maritime supremacy
+marker
+marker ship
+marking
+marking error
+marking fire
+marking panel
+married failure
+marshalling
+marshalling area
+mass
+mass casualty
+massed fire
+master
+master air attack plan
+master film
+master plot
+materials handling
+materials handling equipment
+materiel cognizance
+materiel control
+materiel inventory objective
+materiel management
+materiel pipeline
+materiel planning
+materiel readiness
+materiel release confirmation
+materiel release order
+materiel requirements
+maximum effective range
+maximum elevation figure
+maximum enlisted amount
+maximum landing weight
+maximum operating depth
+maximum ordinate
+maximum permissible dose
+maximum range
+maximum sustained speed
+maximum take-off weight
+mayday
+M-day
+M-day force materiel requirement
+meaconing
+mean lethal dose
+mean line of advance
+mean point of burst
+mean point of impact
+mean sea level
+means of transport
+measured mile
+measurement and signature intelligence
+Measurement and Signature Intelligence Requirements System
+measurement ton
+measure of effectiveness
+measure of performance
+mechanical sweep
+median incapacitating dose
+media pool
+medical civil-military operations
+medical contingency file
+medical evacuees
+medical intelligence
+medical intelligence preparation of the operational environment
+medical officer
+medical protocols
+medical regulating
+medical surveillance
+medical treatment facility
+medium-angle loft bombing
+medium artillery
+medium-lot storage
+medium-range ballistic missile
+medium-range bomber aircraft
+medium-range transport aircraft
+medium-scale map
+meeting engagement
+megaton weapon
+mensuration
+merchant convoy
+merchant intelligence
+merchant ship
+merchant ship casualty report
+merchant ship communications system
+merchant ship control zone
+merchant ship reporting and control message system
+mercomms system
+message
+message center
+message (telecommunications)
+meteorological and oceanographic
+meteorological and oceanographic data
+meteorological and oceanographic environment
+meteorological and oceanographic operations support community
+meteorology
+microform
+midcourse guidance
+midcourse phase
+migrant
+militarily significant fallout
+Military Affiliate Radio System
+military assistance advisory group
+Military Assistance Articles and Services List
+military assistance for civil disturbances
+Military Assistance Program
+Military Assistance Program training
+military assistance to civil authorities
+military capability
+military characteristics
+military civic action
+military construction
+military container moved via ocean
+military convoy
+military currency
+military damage assessment
+military deception
+Military Department
+military designed vehicle
+military education
+military engagement
+military geographic documentation
+military geographic information
+military geography
+military government
+military governor
+military grid
+military grid reference system
+military health system
+military independent
+military intelligence
+Military Intelligence Board
+Military Intelligence Integrated Data System/Integrated Database
+military intervention
+military journalist
+military land transportation resources
+military load classification
+military necessity
+military nuclear power
+military occupation
+military options
+military ordinary mail
+military performance specification container
+military post office
+military postal clerk
+Military Postal Service
+Military Postal Service Agency
+military posture
+military requirement
+military resources
+Military Sealift Command
+Military Sealift Command-controlled ships
+Military Sealift Command force
+Military Service
+military source operations
+military standard requisitioning and issue procedure
+military standard transportation and movement procedures
+military support to civil authorities
+military support to civilian law enforcement agencies
+military symbol
+military technician
+military traffic
+military training
+military van (container)
+MILSPEC container
+MILVAN
+MILVAN chassis
+mine
+mineable waters
+mine clearance
+mine-cluster
+mine countermeasures
+mined area
+mine defense
+mine disposal
+minefield
+minefield breaching
+minefield density
+minefield lane
+minefield marking
+minefield record
+minefield report
+minehunting
+mine row
+mine strip
+minesweeping
+mine warfare
+mine warfare chart
+mine warfare forces (naval)
+mine warfare group
+minewatching
+mine weapons
+minimize
+minimum aircraft operating surface
+minimum attack altitude
+minimum crossing altitude
+minimum essential equipment
+minimum force
+minimum nuclear safe distance
+minimum nuclear warning time
+minimum obstruction clearance altitude
+minimum operating strip
+minimum range
+minimum reception altitude
+minimum residual radioactivity weapon
+minimum-risk route
+minimum safe altitude
+minor installation
+minor port
+misfire
+missed approach
+missile assembly-checkout facility
+missile control system
+missile defense
+missile destruct
+missile destruct system
+missile guidance system
+missile release line
+missing
+missing in action
+mission
+mission assignment
+mission-capable
+mission-essential materiel
+mission needs statement
+mission-oriented items
+mission-oriented protective posture
+mission-oriented protective posture gear
+mission review report (photographic interpretation)
+mission specific data sets
+mission statement
+mission type order
+mixed
+mixed bag
+mixed minefield
+mobile defense
+mobile inshore undersea warfare unit
+mobile mine
+mobile security force
+mobile support group (naval)
+mobile training team
+mobility
+Mobility Air Forces
+mobility analysis
+mobility corridor
+mobility echelon
+mobility system support resources
+mobilization
+mobilization base
+mobilization exercise
+mobilization reserves
+mobilization site
+mobilization staff officer
+mobilization station
+mock-up
+mode (identification, friend or foe)
+mode of transport
+modernization
+Modernized Integrated Database
+modified combined obstacle overlay
+moment
+monitoring
+monitoring service
+moored
+moored mine
+mopping up
+mortar
+mortuary affairs
+mosaic
+most capable Service or agency
+motorized unit
+mounting
+mounting area
+movement control
+movement control center
+movement control post
+movement control team
+movement credit
+movement directive
+movement group
+movement order
+movement phase
+movement plan
+movement report control center
+movement report system
+movement requirement
+movement restriction
+movement schedule
+movement table
+movement to contact
+moving havens
+moving map display
+moving mine
+moving submarine haven
+moving surface ship haven
+moving target indicator
+multichannel
+multi-modal
+multinational
+multinational doctrine
+multinational exercise
+multinational force
+multinational force commander
+multinational integrated logistic support
+multinational integrated logistic support unit
+multinational logistics
+multinational logistic support arrangement
+multinational operations
+multinational staff
+multinational warfare
+multiple drill
+multiple inactive duty training periods
+multiple independently targetable reentry vehicle
+multiple reentry vehicle
+multiple unit training assemblies
+multiple warning phenomenology
+multiplexer
+multi-point refueling system
+multispectral imagery
+multi-spot ship
+munition
+munitions effectiveness assessment
+mutual support
+muzzle brake
+muzzle compensator
+muzzle velocity
+named area of interest
+napalm
+nap-of-the-earth flight
+narcoterrorism
+National Air Mobility System
+national capital region
+national censorship
+National Communications System
+national critical infrastructure and key assets
+national defense area
+National Defense Reserve Fleet
+national defense strategy
+national detainee reporting center
+National Disaster Medical System
+national emergency
+National Incident Management System
+national information infrastructure
+national infrastructure
+national intelligence
+national intelligence estimate
+national intelligence support team
+national intelligence surveys
+national interagency fire center
+National Military Command System
+National Military Strategy
+national operations center
+national policy
+National Reconnaissance Office
+national response coordination center
+national security
+National Security Agency/Central Security Service Representative
+National Security Council
+national security interests
+National Security Strategy
+national shipping authority
+national special security event
+National Stock Number
+national support element
+National System for Geospatial Intelligence
+nation assistance
+natural disaster
+nautical chart
+nautical mile
+nautical plotting chart
+naval advanced logistic support site
+Naval Air Training and Operating Procedures Standardization manual
+naval base
+naval beach group
+naval coastal warfare
+naval coastal warfare commander
+naval construction force
+naval coordination and protection of shipping
+naval coordination and protection of shipping officer
+naval coordination and protection of shipping organization
+naval expeditionary warfare
+naval forward logistic site
+naval gunfire operations center
+naval gunfire spotting team
+naval gunfire support
+naval mobile environmental team
+naval operation
+naval or Marine (air) base
+naval port control office
+naval special warfare
+naval special warfare forces
+naval special warfare group
+naval special warfare special operations component
+naval special warfare task element
+naval special warfare task group
+naval special warfare task unit
+naval special warfare unit
+naval stores
+naval support area
+naval surface fire support
+naval tactical data system
+navigational grid
+navigation head
+navigation mode
+Navy cargo handling battalion
+Navy cargo handling force
+Navy special operations component
+Navy support element
+Navy tactical air control center
+Navy-unique fleet essential aircraft
+N-day
+near miss (aircraft)
+near real time
+neatlines
+need to know
+negation
+negative phase of the shock wave
+negative photo plane
+negligible risk (nuclear)
+nerve agent
+net call sign
+net, chain, cell system
+net (communications)
+net control station
+net explosive weight
+net inventory assets
+net sweep
+net weight
+network operations
+neutral
+neutrality
+neutralization
+neutralization fire
+neutralize
+neutral state
+neutron induced activity
+news media representative
+nickname
+night effect
+night vision device
+night vision goggle(s)
+node
+no-fire area
+no-fire line
+nominal filter
+nominal focal length
+nominal scale
+nominal weapon
+nonair transportable
+nonaligned state
+nonalignment
+nonappropriated funds
+nonbattle injury
+noncombatant evacuation operations
+noncombatant evacuees
+noncontiguous facility
+nonconventional assisted recovery
+nondeferrable issue demand
+nondeployable account
+nondestructive electronic warfare
+nonexpendable supplies and materiel
+nonfixed medical treatment facility
+nongovernmental organization
+nonhostile casualty
+nonlethal weapon
+non-linear approach
+nonorganic transportation requirement
+nonpersistent agent
+nonprior service personnel
+nonproliferation
+nonrecurring demand
+non-registered publication
+nonscheduled units
+non-self-sustaining containership
+nonstandard item
+nonstandard unit
+nonstocked item
+nonstrategic nuclear forces
+non-submarine contact chart
+non-unit record
+non-unit-related cargo
+non-unit-related personnel
+non-US forces
+normal charge
+normal impact effect
+normal intelligence reports
+normal lighting
+normal operations
+North American Aerospace Defense Command
+no-strike list
+notice to airmen
+notional ship
+not mission capable, maintenance
+not mission capable, supply
+not seriously injured
+no-wind position
+nuclear accident
+nuclear airburst
+nuclear bonus effects
+nuclear burst
+nuclear certifiable
+nuclear certified
+nuclear certified delivery unit
+nuclear certified delivery vehicle
+nuclear cloud
+nuclear collateral damage
+nuclear column
+nuclear commitment
+nuclear contact surface burst
+nuclear coordination
+nuclear damage
+Moderate Damage
+nuclear damage assessment
+nuclear delivery unit
+nuclear delivery vehicle
+nuclear detonation detection and reporting system
+nuclear dud
+nuclear energy
+nuclear exoatmospheric burst
+nuclear incident
+nuclear intelligence
+nuclear logistic movement
+nuclear nation
+nuclear parity
+nuclear planning system
+nuclear proximity-surface burst
+nuclear radiation
+nuclear reactor
+nuclear round
+nuclear safety line
+nuclear stalemate
+nuclear strike warning
+nuclear support
+nuclear transmutation
+nuclear underground burst
+nuclear underwater burst
+nuclear vulnerability assessment
+nuclear warfare
+nuclear warning message
+nuclear weapon
+nuclear weapon degradation
+nuclear weapon employment time
+nuclear weapon exercise
+nuclear weapon maneuver
+nuclear weapon(s) accident
+nuclear weapons state
+nuclear weapons surety
+nuclear yields
+nuisance minefield
+number . . . in (out)
+numbered beach
+numbered fleet
+numbered wave
+numerical scale
+objective
+objective area
+objective force level
+obligated reservist
+oblique air photograph
+oblique air photograph strip
+obliquity
+observation helicopter
+observation post
+observed fire
+observed fire procedure
+observer-target line
+observer-target range
+obstacle
+obstacle belt
+obstacle clearing
+obstacle intelligence
+obstacle restricted areas
+obstacle zone
+obstructor
+occupational and environmental health surveillance
+occupational and environmental health threats
+occupation currency
+occupied territory
+Ocean Cargo Clearance Authority
+ocean convoy
+ocean manifest
+oceanography
+ocean station ship
+offensive counterair
+offensive counterair attack operations
+offensive minefield
+offensive space control
+office
+officer in tactical command
+officer of the deck
+official information
+off-load preparation party
+offset bombing
+offset costs
+offset distance (nuclear)
+offset lasing
+offshore assets
+offshore bulk fuel system
+offshore patrol
+offshore petroleum discharge system
+off-the-shelf item
+oiler
+on berth
+on-call
+on-call resupply
+on-call target
+on-call target (nuclear)
+on-call wave
+one day’s supply
+one-look circuit
+on hand
+on-scene commander
+on-station time
+open improved storage space
+open ocean
+open route
+open-source intelligence
+open unimproved wet space
+operating forces
+operating level of supply
+operation
+operational architecture
+operational area
+operational art
+operational authority
+operational characteristics
+operational contract support
+operational control
+operational control authority
+operational decontamination
+operational design
+operational design element
+operational documentation
+operational environment
+operational evaluation
+operational exposure guide
+operational intelligence
+operational level of war
+operational limitation
+operationally ready
+operational necessity
+operational pause
+operational procedures
+operational reach
+operational readiness
+operational readiness evaluation
+operational requirement
+Operational Requirements Document
+operational reserve
+operational route
+operational support airlift
+operational testing
+operational training
+operation and maintenance
+operation annexes
+operation map
+operation order
+operation plan
+operations center
+operations research
+operations security
+operations security indicators
+operations security planning guidance
+operations security vulnerability
+operations support element
+operations to restore order
+opportune lift
+opportunity target
+opposite numbers
+optical axis
+optical minehunting
+optimum height
+optimum height of burst
+orbital injection
+orbit determination
+orbit point
+order
+order and shipping time
+ordered departure
+order of battle
+order time
+ordinary transport
+ordnance
+organic
+organizational equipment
+organizational maintenance
+organization for combat
+organization for embarkation
+organization for landing
+organization of the ground
+Organized Crime Drug Enforcement Task Force
+origin
+original destination
+original negative
+original positive
+originating medical facility
+originator
+oropesa sweep
+orthomorphic projection
+oscillating mine
+other detainee
+other government agency
+other war reserve materiel requirement
+other war reserve materiel requirement, balance
+other war reserve materiel requirement, protectable
+other war reserve stock
+otter
+outbound traffic
+outer fix
+outer landing ship areas
+outer transport area
+outline map
+outline plan
+outsized cargo
+overhaul
+overhead clearance
+overlap
+overlay
+overpressure
+overprint
+overseas
+Overseas Environmental Baseline Guidance Document
+overseas search and rescue region
+oversized cargo
+over the beach operations
+over-the-horizon radar
+overt operation
+overt peacetime psychological operations programs
+pace
+pace setter
+packaged petroleum product
+packup kit
+padding
+pallet
+palletized load system
+palletized load system flatrack
+palletized unit load
+panel code
+panoramic camera
+parachute deployment height
+paradrop
+parallel chains of command
+parallel sheaf
+parallel staff
+paramilitary forces
+pararescue team
+parlimentaire
+parrot
+partial mission-capable
+partial mission-capable, maintenance
+partial mission-capable, supply
+partial mobilization
+partial storage monitoring
+partisan warfare
+part number
+pass
+passage of lines
+passenger mile
+passive
+passive air defense
+passive defense
+passive homing guidance
+passive mine
+pass time
+password
+pathfinder drop zone control
+pathfinders
+pathogen
+patient
+patient movement
+patient movement items
+patient movement policy
+patient movement requirements center
+patrol
+pattern bombing
+pattern laying
+payload
+payload build-up (missile and space)
+payload integration (missile and space)
+payload (missile)
+P-day
+peace building
+peace enforcement
+peacekeeping
+peacemaking
+peace operations
+peacetime force materiel assets
+peacetime force materiel requirement
+peacetime materiel consumption and losses
+peacetime operating stocks
+peak overpressure
+pencil beam
+penetration
+penetration aids
+penetration (air traffic control)
+penetration (intelligence)
+percentage clearance
+perception management
+performance work statement
+perils of the sea
+perimeter defense
+periodic intelligence summary
+period
+period of interest
+perishable cargo
+permafrost
+permanent echo
+permissive action link
+permissive environment
+persistency
+persistent agent
+persistent surveillance
+personal effects
+personal locator beacon
+personal property
+personal protective equipment
+person authorized to direct disposition of human remains
+person eligible to receive effects
+person in custody
+personnel
+personnel increment number
+personnel locator system
+personnel locator system code
+personnel reaction time (nuclear)
+personnel recovery
+personnel recovery coordination cell 
+personnel recovery task force
+personnel replacement center
+personnel security investigation
+perspective grid
+petroleum intersectional service
+petroleum, oils and lubricants
+phase
+phase line
+phases of military government
+phonetic alphabet
+phony minefield
+photoflash bomb
+photoflash cartridge
+photogrammetric control
+photogrammetry
+photographic coverage
+photographic intelligence
+photographic interpretation
+photographic panorama
+photographic reading
+photographic scale
+photographic strip
+photo interpretation key
+photomap
+photo nadir
+physical characteristics
+physical damage assessment
+physical security
+pictomap
+pictorial symbolization
+Pierson-Moskowitz scale
+pillbox
+pilot’s trace
+pinpoint
+pinpoint photograph
+pinpoint target
+pipeline
+piracy
+pitch
+pitch angle
+plan for landing
+plan identification number
+planimetric map
+plan information capability
+planned airlift requests
+planned target (nuclear)
+planned target
+planning and direction
+planning directive
+planning factor
+planning factors database
+planning order
+planning phase
+planning team
+plan position indicator
+plant equipment
+plastic zone
+plate
+platform drop
+plot
+point defense
+point designation grid
+pointee-talkee
+point of no return
+point-to-point sealift
+poised mine
+polar coordinates
+polar orbit
+polar plot
+political intelligence
+political warfare
+politico-military gaming
+pool
+population at risk
+port capacity
+port complex
+port designator
+port evacuation of cargoes
+port evacuation of shipping
+port of debarkation
+port of embarkation
+port operations group
+port security
+port support activity
+positional defense
+position defense
+positive control
+positive identification and radar advisory zone
+positive phase of the shock wave
+Posse Comitatus Act
+postattack period
+posthostilities period
+poststrike reconnaissance
+power projection
+PPI gauge
+practice mine
+prearranged fire
+preassault operation
+precautionary launch
+precautionary personnel recovery
+precedence
+precession
+precipitation static
+precise frequency
+precise time and time interval
+precision bombing
+precision-guided munition
+precursor
+precursor chemical
+precursor front
+precursor sweeping
+predicted fire
+predominant height
+preemptive attack
+preinitiation
+prelanding operations
+pre-launch survivability
+preliminary communications search
+preliminary demolition target
+preliminary movement schedule
+preload loading
+premature dud
+preparation fire
+prepare to deploy order
+preplanned air support
+preplanned mission request
+preplanned nuclear support
+pre-position
+pre-positioned war reserve materiel requirement, balance
+pre-positioned war reserve materiel requirement, protectable
+pre-positioned war reserve requirement
+pre-positioned war reserve stock
+presail
+prescribed nuclear load
+prescribed nuclear stockage
+preset guidance
+Presidential Call-up
+Presidential Reserve Call-up
+pressure breathing
+pressure front
+pressure mine
+pressure mine circuit
+pressurized cabin
+prestrike reconnaissance
+prevention
+prevention of mutual interference
+prevention of stripping equipment
+preventive deployment
+preventive diplomacy
+preventive maintenance
+preventive medicine
+preventive war
+prewithdrawal demolition target
+primary agency
+primary aircraft authorization
+primary aircraft inventory
+primary censorship
+primary control officer
+primary control ship
+primary flight control
+primary imagery dissemination
+primary interest
+primary review authority
+prime contract
+primed charge
+prime mover
+prime vendor
+principal building
+principal federal official
+principal items
+principal officer
+principal operational interest
+principal parallel
+principal plane
+principal scale
+principal vertical
+printing size of a map or chart
+print reference
+priority designator
+priority intelligence requirement
+priority message
+priority national intelligence objectives
+priority of immediate mission requests
+priority system for mission requests for tactical reconnaissance
+prior permission
+prisoner of war
+prisoner of war branch camp
+prisoner of war camp
+prisoner of war censorship
+prisoner of war compound
+prisoner of war enclosure
+prisoner of war personnel record
+private sector
+privity of contract
+proactive measures
+proactive mine countermeasures
+probability of damage
+probable error
+probable error deflection
+probable error height of burst
+probable error range
+probably destroyed
+probe
+procedural control
+procedures
+procedure turn
+procedure word
+processing
+processing and exploitation
+process owner
+proclamation
+procurement lead time
+procuring contracting officer
+producer countries
+production base
+production lead time
+placement; and b. reorder
+production logistics
+production loss appraisal
+proficiency training aircraft
+profile
+program aircraft
+Programmed Forces
+program of nuclear cooperation
+prohibited area
+projected map display
+projection print
+proliferation (nuclear weapons)
+prompt radiation
+proofing
+propaganda
+propelled mine
+proper authority
+proper clearance
+property
+property account
+proportional navigation
+protected emblems
+protected frequencies
+protected persons/places
+protected site
+protection
+protection of shipping
+protective clothing
+protective mask
+protective minefield
+prototype
+provincial reconstruction team
+provisioning
+proword
+proximity fuze
+proximity operations
+pseudopursuit navigation
+psychological consolidation activities
+psychological operations
+psychological operations assessment team
+psychological operations impact indicators
+psychological operations support element
+public affairs
+public affairs assessment
+public affairs ground rules
+public affairs guidance
+public diplomacy
+public information
+public key infrastructure
+pull-up point
+pulse code
+pulse duration
+pulsejet
+pulse repetition frequency
+pulsing
+purchase description
+purchase notice agreements
+purchasing office
+purposeful interference
+pursuit
+pyrotechnic
+pyrotechnic delay
+q-message
+Q-route
+quadrant elevation
+quadruple container
+quay
+quick response force
+radar
+radar advisory
+radar altimetry area
+radar beacon
+radar camouflage
+radar clutter
+radar countermeasures
+radar coverage
+radar danning
+radar deception
+radar exploitation report
+radar fire
+radar guardship
+radar horizon
+radar imagery
+radar intelligence
+radar netting
+radar netting station
+radar netting unit
+radar picket
+radar reconnaissance
+radarscope overlay
+radarscope photography
+radar signal film
+radar silence
+radar spoking
+radar tracking station
+radial
+radial displacement
+radiant exposure
+radiation dose
+radiation dose rate
+radiation exposure state
+radiation exposure status
+radiation intelligence
+radiation intensity
+radiation scattering
+radiation sickness
+radioactive decay
+radioactive decay curve
+radioactive decay rate
+radioactivity
+radioactivity concentration guide
+radio approach aids
+radio beacon
+radio deception
+radio detection
+radio direction finding
+radio direction finding database
+radio fix
+radio frequency countermeasures
+radio guard
+radiological accident
+radiological defense
+radiological dispersal device
+radiological environment
+radiological exposure device
+radiological monitoring
+radiological operation
+radiological survey
+radiological survey flight altitude
+radio magnetic indicator
+radio navigation
+radio range finding
+radio range station
+radio silence
+radio telegraphy
+radio telephony
+radius of action
+radius of damage
+radius of integration
+radius of safety
+raid
+railhead
+railway line capacity
+railway loading ramp
+rainfall (nuclear)
+rainout
+ramjet
+random minelaying
+range
+range marker
+range markers
+Rangers
+range spread
+ranging
+rapid and precise response
+rapid global mobility
+rapid response force
+rated load
+rate of fire
+rate of march
+ratification
+rationalization
+ration dense
+ratio print
+ratline
+R-day
+reachback
+reaction time
+readiness
+readiness condition
+ready position
+Ready Reserve
+ready-to-load date
+reallocation authority
+real property
+real time
+rear area
+rear area operations center/rear tactical operations center
+rear echelon
+rear guard
+rearming
+reattack recommendation
+rebuild
+receipt
+receipt into the supply system
+receiving ship
+reception
+reclama
+recognition
+recognition signal
+recompression chamber
+reconnaissance
+reconnaissance by fire
+reconnaissance exploitation report
+reconnaissance in force
+reconnaissance patrol
+reconnaissance photography
+reconstitution site
+record information
+recoverable item
+recovery
+recovery activation signal
+recovery airfield
+recovery and reconstitution
+recovery force
+recovery mechanism
+recovery operations
+recovery procedures
+recovery site
+recovery team
+recovery vehicle
+recovery zone
+rectification
+recuperation
+recurring demand
+redeployment
+redeployment airfield
+RED HORSE
+redistribution
+red team
+reduced charge
+reduced lighting
+reduced operating status
+reduction
+reduction (photographic)
+reefer
+reentry vehicle
+reference datum
+reference diversion point
+reference point
+reflected shock wave
+reflex sight
+refraction
+refuge area
+refugee
+regimental landing team
+regional air defense commander
+regional liaison group
+regional response coordination center
+regional satellite communications support center
+regional security officer
+register
+registration
+registration fire
+registration point
+regrade
+regular drill
+regulated item
+regulating point
+regulating station
+rehabilitation
+rehabilitative care
+rehearsal phase
+reinforcement training unit
+reinforcing
+reinforcing obstacles
+reintegrate
+relateral tell
+relative altitude
+relative biological effectiveness
+release
+release altitude
+release point (road)
+releasing commander (nuclear weapons)
+releasing officer
+reliability diagram
+reliability of source
+relief
+relief in place
+religious support
+religious support plan
+religious support team
+relocatable building
+remain-behind equipment
+remaining forces
+remote delivery
+remotely piloted vehicle
+render safe procedures
+rendezvous area
+reorder cycle
+reorder point
+repair
+repair and restoration
+repair cycle
+repair cycle aircraft
+reparable item
+repatriate
+repatriation
+repeater-jammer
+replacement demand
+replacement factor
+replacements
+replenishment at sea
+reportable incident
+reported unit
+reporting post
+reporting time interval
+representative downwind direction
+representative downwind speed
+representative fraction
+request for assistance
+request for information
+request modify
+required delivery date
+required supply rate (ammunition)
+requirements
+requirements capability
+requirements management system
+requiring activity
+requisition
+requisitioning objective
+rescue combat air patrol
+rescue ship
+research
+reseau
+reservation
+reserve
+reserve aircraft
+reserve component category
+Reserve Components
+reserved demolition target
+reserved obstacles
+reserved route
+reserve supplies
+resettled person
+residual capabilities assessment
+residual contamination
+residual forces
+residual radiation
+residual radioactivity
+resistance movement
+resolution
+resource management
+resources
+response force
+responsibility
+responsor
+rest and recuperation
+restitution
+restitution factor
+restraint
+restraint of loads
+restricted area
+restricted areas (air)
+restricted dangerous air cargo
+restricted data
+restricted items list
+restricted operations area
+restricted target list
+restricted target
+restrictive fire area
+restrictive fire line
+restrictive fire plan
+resupply
+resuscitative care
+retained personnel
+reticle
+Retired Reserve
+retirement
+retrofit action
+retrograde cargo
+retrograde movement
+retrograde operation
+retrograde personnel
+returned to military control
+returnee
+return load
+return to base
+revolving fund
+right (left) bank
+right (or left)
+riot control agent
+riot control operations
+rising mine
+risk
+risk assessment
+risk management
+riverine area
+riverine operations
+road block
+road capacity
+road clearance time
+road hazard sign
+road net
+road space
+rocket propulsion
+roentgen
+roentgen equivalent mammal
+role number
+role specialist nation
+roll back
+roll-in-point
+roll-on/roll-off discharge facility
+roll-up
+romper
+rope
+rough terrain container handler
+route
+route capacity
+route classification
+route lanes
+routine message
+routine supplies
+routing indicator
+row marker
+rules for the use of force
+rules of engagement
+run
+runway visual range
+rupture zone
+ruse
+sabotage
+sabotage alert team
+safe anchorage
+safe area
+safe burst height
+safe current
+safe depth
+safe distance
+safe haven
+safe house
+safe separation distance
+safety and arming mechanism
+safety device
+safety distance
+safety fuze
+safety height
+safety lane
+safety level of supply
+safety line
+safety wire
+safety zone
+safing
+safing and arming mechanism
+salted weapon
+salvage
+salvage group
+salvage operation
+salvo
+sanction enforcement
+sanctuary
+sanitize
+satellite and missile surveillance
+S-bend distortion
+scale
+scale (photographic)
+scaling law
+scan
+scan line
+scan period
+scan rate
+scan type
+scatterable mine
+scene of action commander
+scheduled arrival date
+scheduled fire
+scheduled maintenance
+scheduled service (air transport)
+scheduled speed
+scheduled target
+scheduled target (nuclear)
+scheduled wave
+schedule of fire
+schedule of targets
+scheduling and movement
+scheduling and movement capability
+scheme of maneuver
+scientific and technical intelligence
+scientific intelligence
+screen
+screening group
+scribing
+S-curve distortion
+S-Day
+sea-air-land team
+sea areas
+sea barge
+seabasing
+seaborne forces
+sea control operations
+sea echelon
+sea echelon area
+sea echelon plan
+sea frontier
+sealed cabin
+sealift enhancement features
+Sealift Readiness Program
+seaport
+search
+search and rescue
+search and rescue alert notice
+search and rescue incident classification
+search and rescue region
+search attack unit
+searched channel
+searching fire
+search jammer
+search mission
+search radius
+search sweeping
+SEASHED
+sea state
+sea surveillance
+sea surveillance system
+seaward launch point
+seaward recovery point
+secondary censorship
+secondary imagery dissemination
+secondary loads
+secondary port
+secondary rescue facilities
+secondary road
+secondary wave breaker system
+second strike
+secret
+Secretary of a Military Department
+SECRET Internet Protocol Router Network
+section
+sector
+sector air defense commander
+sector of fire
+sector scan
+secure
+security
+security alert team
+security assistance
+security assistance organization
+security certification
+security classification
+security clearance
+security cooperation
+security cooperation activity
+security cooperation planning
+security countermeasures
+security intelligence
+security review
+sedition
+segregation
+seize
+seizures
+Selected Reserve
+Selected Reserve strength
+selective identification feature
+selective jamming
+selective loading
+selective mobilization
+selective release process
+selective unloading
+selenodesy
+self-defense
+self-destroying fuze
+self-protection depth
+self-sustaining containership
+semi-active homing guidance
+semi-controlled mosaic
+semipermanent joint task force
+senior contracting official
+senior meteorological and oceanographic officer
+senior officer present afloat
+sensitive
+sensitive compartmented information
+sensitive compartmented information facility
+sensitive site exploitation
+separation zone
+sequel
+sequence circuit
+sequenced ejection system
+serial
+serial assignment table
+seriously ill or injured
+seriously wounded
+service ammunition
+Service-common
+Service component command
+service environment
+Service force module
+service group
+service mine
+Service-organic transportation assets
+service squadron
+service test
+service troops
+Service-unique container
+servicing
+severe damage
+shaded relief
+shadowing
+shallow fording
+shaped charge
+shear link assembly
+sheet explosive
+sheetlines
+shelf life
+shell (specify)
+shelter
+shielding
+shifting fire
+ship counter
+ship haven 
+ship influence
+shipping configuration
+shipping control
+shipping designator
+shipping lane
+shipping time
+ship-to-shore movement
+shoal
+shock front
+shore fire control party
+shoreline effect
+shore party
+shore-to-shore movement
+shortfall
+short-range air defense engagement zone
+short-range ballistic missile
+short-range transport aircraft
+short scope buoy
+short supply
+short takeoff and landing
+short takeoff and vertical landing aircraft
+short title
+show of force
+shuttered fuze
+side-looking airborne radar
+side oblique air photograph
+side overlap
+sighting
+SIGINT direct service
+SIGINT direct service activity
+SIGINT direct support
+SIGINT direct support unit
+SIGINT operational control
+SIGINT operational tasking
+SIGINT operational tasking authority
+SIGINT resources
+SIGINT support plans
+signal
+signal center
+signal letters
+signal operation instructions
+signal security
+signals intelligence
+signal-to-noise ratio
+signature equipment
+signed route
+significant wave height
+Silver Triangle
+simulative electromagnetic deception
+simultaneous engagement
+single-anchor leg mooring
+single department purchase
+single flow route
+single integrated theater logistic manager
+single manager
+single manager for transportation
+single port manager
+single-service manager
+sinker
+situation map
+situation report
+situation template
+skim sweeping
+skin paint
+skin tracking
+slant range
+slated items
+slice
+slightly wounded
+small arms
+small arms ammunition
+small austere airfield
+small-lot storage
+small-scale map
+smoke screen
+snagline mine
+soft missile base
+soil shear strength
+solatium
+solenoid sweep
+sonar
+sonic
+sonobuoy
+sortie
+sortie allotment message
+sortie number
+sortie plot
+sortie reference
+sorting
+source
+source registry
+space
+space asset
+space assignment
+space available mail
+space capability
+space control
+space coordinating authority
+space environment
+space force application
+space force enhancement
+space forces
+space power
+space sensor
+space situational awareness
+space superiority
+space support
+space surveillance
+space systems
+space weather
+span of detonation (atomic demolition munition employment)
+special access program
+special actions
+special activities
+special agent
+special air operation
+special ammunition supply point
+special assignment airlift requirements
+special boat squadron
+special boat team
+special cargo
+special-equipment vehicle
+special events for homeland security
+special forces
+special forces group
+special forces operations base
+special hazard
+special information operations
+specialist intelligence report
+specialization
+special mission unit
+special operations
+special operations combat control team
+special operations command
+special operations command and control element
+special operations forces
+special operations liaison element
+special operations mission planning folder
+special operations naval mobile environment team
+special operations-peculiar
+special operations terminal attack controller
+special operations weather team/tactical element
+special operations wing
+special (or project) equipment
+special purpose Marine air-ground task force
+special-purpose vehicle
+special reconnaissance
+special staff
+special tactics
+special tactics team
+special unloading berth
+special weapons
+specific intelligence collection requirement
+specific search
+specified combatant command
+specified command
+specified task
+spectrozonal photography
+speed of advance
+speed of sound
+spillover
+spin stabilization
+split cameras
+split-mission oriented protective posture
+split pair
+split-up
+split vertical photography
+spoiling attack
+sponsor
+spoke
+spot
+spot elevation
+spot jamming
+spot net
+spot report
+spot size
+spotter
+spotting
+spotting line
+spray dome
+spreader bar
+spreading fire
+sprocket
+squadron
+squib
+squirt
+staballoy
+stability operations
+stabilized patient
+stable base film
+stable patient
+staff
+staff estimates
+staff judge advocate
+staff supervision
+stage
+staged crews
+staging
+staging area
+staging base
+standard advanced base units
+standardization
+standard operating procedure
+standard parallel
+standard pattern
+standard positioning system
+standard route
+standard unit
+standard use Army aircraft flight route
+Standby Reserve
+stand fast
+standing joint force headquarters
+standing operating procedure
+standing order
+standing rules for the use of force
+state and regional defense airlift
+stateless person
+state of readiness
+state of readiness--state 1--safe
+state of readiness--state 2--armed
+static air temperature
+static line (air transport)
+static line cable
+static marking
+station
+station authentication
+station time
+status-of-forces agreement
+stay behind
+stay behind force
+stellar guidance
+stepped-up separation
+stereographic coverage
+sterilize
+sterilizer
+stick (air transport)
+stick commander (air transport)
+stimulants
+stockage objective
+stock control
+stock coordination
+Stock Number
+stockpile to target sequence
+stock record account
+stop-loss
+storage
+storage life
+stores
+stowage
+stowage diagram
+stowage factor
+stowage plan
+strafing
+straggler
+strapping
+strategic advantage
+strategic airlift
+strategic air transport
+strategic air transport operations
+strategic air warfare
+strategic communication
+strategic concentration
+strategic concept
+strategic direction
+strategic estimate
+strategic intelligence
+strategic level of war
+strategic map
+strategic material (critical)
+strategic mining
+strategic mission
+strategic mobility
+strategic plan
+strategic psychological activities
+strategic sealift
+strategic sealift forces
+strategic sealift shipping
+strategic transport aircraft
+strategic vulnerability
+strategic warning
+strategic warning lead time
+strategic warning post-decision time
+strategic warning pre-decision time
+strategy
+stretcher
+stretch out
+strike
+strike coordination and reconnaissance
+strikedown
+strike photography
+strip marker
+strip plot
+strong point
+structured message text
+stuffing
+subassembly
+subgravity
+subkiloton weapon
+submarine operating authority
+submarine operations area
+submarine patrol area
+submunition
+subordinate command
+subordinate unified command
+subscription
+subsidiary landing
+subsonic
+substitute transport-type vehicle
+subunified command
+subversion
+subversion of Department of Defense personnel
+subversive activity
+subversive political action
+summit
+sun-synchronous orbit
+supercargo
+supersonic
+supervised route
+supplementary facilities
+supplies
+supply
+supply by air
+supply chain
+supply chain management
+supply control
+supplying ship
+supply management
+supply point
+supply support activity
+supply transaction reporting
+support
+support agency
+supported commander
+supported unit
+supporting aircraft
+supporting arms
+supporting arms coordination center
+supporting artillery
+supporting attack
+supporting commander
+supporting fire
+supporting forces
+supporting operations
+supporting plan
+support items
+support to counterinsurgency
+support to insurgency
+suppression
+suppression mission
+suppression of enemy air defenses
+suppressive fire
+surface action group
+surface code
+surface combatant
+Surface Deployment and Distribution Command
+surface smuggling event
+surface-to-air guided missile
+surface-to-air missile envelope
+surface-to-air missile installation
+surface-to-air missile site
+surface-to-air weapon
+surface-to-surface guided missile
+surface warfare
+surface zero
+surf line
+surf zone
+surplus property
+surprise dosage attack
+surveillance
+surveillance approach
+survey control point
+survey information center
+survey, liaison, and reconnaissance party
+survey photography
+survivability
+survival, evasion, resistance, and escape
+suspect
+suspension equipment
+suspension strop
+sustainability
+sustained attrition minefield
+sustained rate of fire
+sustaining stocks
+sustainment
+swell
+sweep
+sweeper track
+sweep jamming
+swept path
+switch horn
+sympathetic detonation
+synchronization
+synchronized clock
+synthesis
+synthetic exercise
+system
+systems architecture
+systems design
+systems support contract
+table of allowance
+TABOO frequencies
+tacit arms control agreement
+tactical aeromedical evacuation
+tactical air command center
+tactical air commander (ashore)
+tactical air control center
+tactical air control party
+tactical air coordinator (airborne)
+tactical air direction center
+tactical airfield fuel dispensing system
+tactical air groups (shore-based)
+tactical air officer (afloat)
+tactical air operation
+tactical air operations center
+tactical air reconnaissance
+tactical air support
+tactical air support element
+tactical air transport operations
+tactical assembly area
+tactical call sign
+tactical combat force
+tactical concept
+tactical control
+tactical deception group
+tactical digital information link
+tactical diversion
+tactical exploitation of national capabilities
+tactical information processing and interpretation system
+tactical intelligence
+tactical intelligence and related activities
+tactical level of war
+tactical loading
+tactical locality
+tactical-logistical group
+tactical map
+tactical minefield
+tactical mining
+tactical nuclear weapon employment
+tactical obstacles
+tactical operations center
+tactical questioning
+tactical range
+tactical recovery of aircraft and personnel
+tactical reserve
+tactical security
+tactical sub-concept
+tactical transport aircraft
+tactical troops
+tactical unit
+tactical vehicle
+tactical warning
+tactical warning and assessment
+tactical warning and attack assessment
+tactics
+tagline
+Tanker Airlift Control Center
+tanker airlift control element
+tare weight
+target
+target acquisition
+target analysis
+target approach point
+target area of interest
+target area survey base
+target array
+target audience
+target base line
+target bearing
+target classification
+target complex
+target component
+target concentration
+target critical damage point
+target data inventory
+target date
+target development
+target discrimination
+target dossier
+target folder
+target information center
+targeting
+target intelligence
+target materials
+target nomination list
+target of opportunity
+target overlay
+target pattern
+target priority
+target range
+target response (nuclear)
+target signature
+target stress point
+target system
+target system analysis
+target system assessment
+target system component
+task component
+task element
+task force
+task group
+tasking order
+task order
+task organization
+task-organizing
+task unit
+taxiway
+T-day
+tear line
+technical analysis
+technical architecture
+technical assistance
+technical characteristics
+technical documentation
+technical escort
+technical evaluation
+technical information
+technical intelligence
+technical operational intelligence
+technical review authority
+technical specification
+technical supply operations
+technical surveillance countermeasures
+technical survey
+techniques
+telecommunication
+telecommunications center
+teleconference
+telemedicine
+teleprocessing
+television imagery
+telling
+temperature gradient
+tempest
+temporary interment
+terminal
+terminal attack control
+terminal clearance capacity
+terminal control
+terminal control area
+terminal guidance
+terminal guidance operations
+terminal operations
+terminal phase
+terminal velocity
+termination criteria
+terms of reference
+terrain analysis
+terrain avoidance system
+terrain clearance system
+terrain exercise
+terrain flight
+terrain following system
+terrain intelligence
+terrain study
+terrestrial environment
+terrestrial reference guidance
+territorial airspace
+territorial sea
+terrorism
+terrorist
+terrorist group
+terrorist threat level
+test depth
+tests
+theater
+theater airlift
+theater antisubmarine warfare commander
+theater-assigned transportation assets
+theater detainee reporting center
+theater distribution
+theater distribution management
+theater distribution system
+theater event system
+theater hospitalization capability
+theater missile
+theater of operations
+theater of war
+theater patient movement requirements center
+theater special operations command
+theater strategy
+theater support contract
+thermal crossover
+thermal energy
+thermal exposure
+thermal imagery
+thermal pulse
+thermal radiation
+thermal shadow
+thermal X-rays
+thermonuclear
+thermonuclear weapon
+thorough decontamination
+threat analysis
+threat and vulnerability assessment
+threat identification and assessment
+threat-oriented munitions
+threat warning
+threshold
+throughput
+tie down diagram
+tie down point
+tie down point pattern
+tilt angle
+time-definite delivery
+time fuze
+time interval
+time of attack
+time of delivery
+time of flight
+time of origin
+time of receipt
+time on target
+time over target conflict
+time over target (nuclear)
+time-phased force and deployment data
+time-phased force and deployment data maintenance
+time-phased force and deployment data refinement
+time-phased force and deployment list
+times
+time-sensitive target
+time slot
+time to target
+tip
+tips
+title block
+TNT equivalent
+tolerance dose
+tone down
+tophandler
+topographic base
+topographic map
+topography
+top secret
+torpedo defense net
+toss bombing
+total active aircraft authorization
+total active aircraft inventory
+total dosage attack
+total materiel assets
+total materiel requirement
+total mobilization
+total overall aircraft inventory
+total pressure
+touchdown zone
+toxic chemical, biological, or radiological attack
+toxic industrial biological
+toxic industrial chemical
+toxic industrial material
+toxic industrial radiological
+toxin
+track
+track correlation
+track management
+track of interest
+track production area
+track symbology
+track telling
+trafficability
+traffic circulation map
+traffic control police
+traffic density
+traffic flow
+traffic flow security
+traffic information (radar)
+traffic management
+traffic pattern
+train
+trained strength in units
+train headway
+training aids
+training and readiness oversight
+training and retirement category
+training-pay category
+training period
+training pipeline
+training unit
+train path
+trajectory
+transattack period
+transfer loader
+transient
+transient forces
+transit area
+transit bearing
+transition altitude
+transition layer
+transition level
+transit passage
+transit route
+transit zone
+transmission factor (nuclear)
+transmission security
+transonic
+transponder
+transportability
+transport aircraft
+transport area
+transportation closure
+transportation component command
+transportation emergency
+transportation feasibility
+transportation movement requirement
+transportation operating agencies
+transportation priorities
+transportation system
+transport control center (air transport)
+transport group
+transporting (ordnance)
+transshipment point
+traverse
+traverse level
+traverse racking test load value
+treason
+trend
+triangulation station
+tri-camera photography
+trig list
+trim
+triple point
+troop basis
+troops
+troop safety (nuclear)
+troop space cargo
+troop test
+tropical storm
+tropopause
+true airspeed indicator
+true altitude
+true bearing
+true convergence
+true horizon
+true north
+turbojet
+turnaround
+turnaround cycle
+turning movement
+turning point
+turn-off guidance
+two-person control
+two-person rule
+types of burst
+type unit
+type unit data file
+ultraviolet imagery
+unaccounted for
+unanticipated target
+unauthorized commitment
+uncertain environment
+uncharged demolition target
+unclassified matter
+unconventional assisted recovery
+unconventional assisted recovery coordination cell
+unconventional assisted recovery mechanism
+unconventional assisted recovery team
+unconventional warfare
+unconventional warfare forces
+under sea warfare
+understowed cargo
+underwater demolition
+underwater demolition team
+underway replenishment
+underway replenishment force
+underway replenishment group
+unexploded explosive ordnance
+unified action
+unified combatant command
+unified command
+Unified Command Plan
+uniformed services
+unilateral arms control measure
+unintentional radiation exploitation
+unintentional radiation intelligence
+uni-Service command
+unit
+unit aircraft
+unit combat readiness
+unit commitment status
+unit designation list
+United States
+United States Armed Forces
+United States Civilian Internee Information Center
+United States controlled shipping
+United States message text format
+United States Military Service-funded foreign training
+United States Naval Ship
+United States Prisoner of War Information Center
+United States Signals Intelligence System
+United States Transportation Command
+unit identification code
+unitized load
+unit line number
+unit loading
+unit movement control center
+unit of issue
+unit movement data
+unit personnel and tonnage table
+unit price
+unit readiness
+unit-related equipment and supplies
+unit reserves
+unit training assembly
+unit type code
+unity of effort
+Universal Joint Task List
+universal polar stereographic grid
+Universal Postal Union
+Universal Time
+universal transverse mercator grid
+unknown
+unlimited war
+unmanned aircraft
+unmanned aircraft system
+unmanned aerial vehicle
+unplanned target
+unscheduled convoy phase
+unstable patient
+unstuffing
+unwanted cargo
+unwarned exposed
+urban triad
+urgent mining
+urgent priority
+US commercial assets
+use of force policy
+US Defense Representative
+US forces
+US national
+US person
+US Transportation Command coordinating instructions
+validate
+validation
+valuable cargo
+value engineering
+variability
+variant
+variation
+vehicle-borne improvised explosive device
+vehicle cargo
+vehicle distance
+vehicle summary and priority table
+verification
+verify
+vertex
+vertex height
+vertical air photograph
+vertical and/or short takeoff and landing
+vertical envelopment
+vertical interval
+vertical landing zone
+vertical loading
+vertical probable error
+vertical replenishment
+vertical separation
+vertical strip
+vertical takeoff and landing aircraft
+vertical takeoff and landing aircraft transport area
+very seriously ill or injured
+very small aperture terminal
+vesicant agent
+vetting
+vignetting
+visibility range
+visual call sign
+visual information
+visual information documentation
+visual meteorological conditions
+visual mine firing indicator
+vital area
+vital ground
+voice call sign
+Voluntary Intermodal Sealift Agreement
+voluntary tanker agreement
+voluntary training
+voluntary training unit
+VOR
+vulnerability
+vulnerability assessment
+vulnerability program
+vulnerability study
+vulnerable area
+vulnerable node
+vulnerable point
+wading crossing
+walking patient
+wanted cargo
+warble
+warden system
+war game
+warhead
+warhead mating
+warhead section
+war materiel procurement capability
+war materiel requirement
+warned exposed
+warned protected
+warning
+warning area
+warning net
+warning of attack
+warning of war
+warning order
+warning red
+warning shots
+warning white
+warning yellow
+warp
+war reserve materiel requirement
+war reserve materiel requirement, balance
+war reserve materiel requirement, protectable
+war reserve (nuclear)
+war reserves
+war reserve stock
+war reserve stocks for allies
+wartime load
+wartime manpower planning system
+wartime reserve modes
+Washington Liaison Group
+watching mine
+watercraft
+waterspace management
+water terminal
+wave
+wave crest
+wave height
+wave length
+wave period
+wave trough
+wave velocity
+way point
+W-day
+weapon and payload identification
+weapon debris (nuclear)
+weaponeering
+weapon engagement zone
+weapons assignment
+weapons free zone
+weapons of mass destruction
+weapons of mass destruction - civil support team
+weapons readiness state
+weapons recommendation sheet
+weapons state of readiness
+weapon(s) system
+weapon system employment concept
+weapon system video
+weapon-target line
+weather deck
+weight and balance sheet
+wellness
+wharf
+wheel load capacity
+white cap
+whiteout
+white propaganda
+Wilson cloud
+winch
+wind shear
+wind velocity
+wing
+wingman
+withdrawal operation
+withhold (nuclear)
+working anchorage
+working capital fund
+working group
+work order
+Worldwide Port System
+wounded
+wounded in action
+wreckage locator chart
+yaw
+yield
+zero-length launching
+zero point
+zone I (nuclear)
+zone II (nuclear)
+zone III (nuclear)
+zone of action
+zone of fire
+ZULU time
+abort
+absolute altimeter
+absolute dud
+absolute filter
+absolute height
+acceptability
+access to classified information
+accidental attack
+accompanying supplie
+accountability
+accounting line designator
+accuracy of fire
+accuracy of information
+acoustical surveillance
+acoustic circuit
+acoustic intelligence
+acoustic jamming
+acoustic mine
+acoustic minehunting
+acoustic warfare
+acoustic warfare counter-countermeasures
+acoustic warfare countermeasures
+acoustic warfare support measures
+acquire
+acquire (radar)
+acquisition
+acquisition and cross-servicing agreement
+action agent
+action deferred
+action information center
+action phase
+activation
+activation detector
+active air defense
+active communications satellite
+active defense
+active duty
+active duty for special work
+active duty for training
+Active Guard and Reserve
+active homing guidance
+active material
+active mine
+active sealift forces
+active status
+activity
+act of mercy
+actual ground zero
+actuate
+acute care services
+acute radiation dose
+adequacy
+adjust
+administrative airlift service
+administrative contracting officer
+administrative control
+administrative escort
+administrative landing
+administrative loading
+administrative map
+administrative movement
+administrative order
+administrative shipping
+advanced base
+advanced geospatial intelligence
+advanced logistic support site
+advanced operations base
+advance force
+advance guard
+advance guard reserve
+advance guard support
+adversary
+adverse weather aerial delivery system
+advisory area
+aerial picket
+aerial port
+aerial port control center
+aerial port squadron
+aerodynamic missile
+aeromedical evacuation
+aeromedical evacuation cell
+aeromedical evacuation control officer
+aeromedical evacuation control team
+aeromedical evacuation coordination center
+aeromedical evacuation system
+aeromedical evacuation unit
+aeronautical chart
+aeronautical information overprint
+aeronautical plotting chart
+aerospace
+aerospace defense
+afloat pre-positioning force
+afloat pre-positioning operations
+afloat pre-positioning ships
+afloat support
+afterwinds
+agency
+agent
+agent authentication
+agent net
+aggressor forces
+aimpoint
+air
+air alert
+air and space expeditionary task force
+air apportionment
+air assault
+air assault force
+air assault operation
+air attack — 1. coordinated
+airborne
+airborne alert
+airborne assault
+airborne assault weapon
+airborne command post
+airborne early warning
+airborne early warning and control
+airborne force
+airborne interception equipment
+airborne lift
+airborne mission coordinator
+airborne operation
+airborne order
+airborne radio relay
+airborne sensor operator
+airborne troops
+air-breathing missile
+airburst
+air-capable ship
+air cargo
+air cartographic camera
+air cartographic photography
+air component coordination element
+air corridor
+aircraft
+aircraft arresting barrier
+aircraft arresting cable
+aircraft arresting gear
+aircraft arresting hook
+aircraft arresting system
+aircraft arresting wire
+aircraft arrestment
+aircraft block speed
+aircraft captain
+aircraft carrier
+aircraft commander
+aircraft control and warning system
+aircraft cross-servicing
+aircraft loading table
+aircraft mission equipment
+aircraft modification
+aircraft monitoring and control
+aircraft role equipment
+aircraft scrambling
+aircraft store
+aircraft tiedown
+aircraft transient servicing
+aircraft utilization
+aircraft vectoring
+air cushion vehicle
+air defense
+air defense area
+air defense artillery
+air defense control center
+air defense direction center
+air defense early warning
+air defense emergency
+air defense ground environment
+air defense identification zone
+air defense operations center
+air defense operations team
+air defense readiness
+air defense region
+air defense sector
+air defense warning conditions
+air delivery
+air delivery container
+air delivery equipment
+air direct delivery
+airdrop
+airdrop platform
+air employment/allocation plan
+air expeditionary force
+air expeditionary wing
+air facility
+airfield
+airfield traffic
+Air Force air and space operations center
+Air Force Component Headquarters
+Air Force special operations base
+Air Force special operations component
+Air Force special operations detachment
+Air Force special operations element
+Air Force special operations forces
+airhead
+airhead line
+air intercept control common
+air interception
+air interdiction
+air landed
+air landed operation
+air-launched ballistic missile
+air liaison officer
+airlift capability
+airlift control team
+airlift coordination cell
+airlift mission commander
+airlift requirement
+airlift service
+air logistic support
+air logistic support operation
+airmiss
+air mission
+air mission intelligence report
+airmobile forces
+airmobile operation
+air mobility
+Air Mobility Command
+air mobility control team
+air mobility division
+air mobility element
+air mobility express
+air mobility liaison officer
+air movement
+air observation
+air observation post
+air observer
+air observer adjustment
+air offensive
+air photographic reconnaissance
+air picket
+air plot
+airport
+air portable
+airport surface detection equipment
+airport surveillance radar
+airport traffic area
+air position
+air priorities committee
+air raid reporting control ship
+air reconnaissance
+air reconnaissance liaison officer
+air refueling
+air refueling control point
+air refueling control team
+air refueling control time
+air refueling initiation point
+air request net
+air route
+air route traffic control center
+air smuggling event
+air sovereignty
+air sovereignty mission
+airspace control
+airspace control area
+airspace control authority
+airspace control boundary
+airspace control center
+airspace control facility
+airspace control in the combat zone
+airspace control order
+airspace control plan
+airspace control procedures
+airspace control sector
+airspace control system
+airspace coordinating measures
+airspace coordination area
+airspace management
+airspace reservation
+airspace restrictions
+air space warning area
+airspeed indicator
+air staging unit
+air station
+air strike
+air strike coordinator
+air strip
+air superiority
+air supply
+air support
+air support operations center
+air support request
+air supremacy
+air surface zone
+air surveillance
+air surveillance officer
+air survey camera
+air survey photography
+air target chart
+Air Target Materials Program
+air target mosaic
+air tasking order
+air tasking order/confirmation
+air terminal
+air-to-air guided missile
+air-to-surface guided missile
+air traffic control and landing system
+air traffic control center
+air traffic control clearance
+air traffic control facility
+air traffic controller
+air traffic control service
+air traffic identification
+air traffic section
+air transportable unit
+air transported operations
+air transport group
+airways station
+air weapons controller
+alert force
+alerting service
+alert order
+all appropriate action
+alliance
+allocation
+allocation (air)
+allocation (nuclear)
+allocation request
+allocation (transportation)
+allotment
+allowable cabin load
+allowable load
+allowable stacking weight
+all-source intelligence
+all-weather air defense fighter
+alongside replenishment
+alphabet code
+alternate airfield
+alternate command authority
+alternate command post
+alternate headquarters
+alternative
+altitude
+altitude acclimatization
+altitude chamber
+altitude delay
+altitude hole
+altitude separation
+altitude slot
+ambulance exchange point
+ammunition
+ammunition controlled supply rate
+ammunition lot
+ammunition supply point
+amphibian
+amphibious assault
+amphibious assault area
+amphibious assault landing
+amphibious assault ship (dock)
+amphibious assault ship (general purpose)
+amphibious aviation assault ship
+amphibious bulk liquid transfer system
+amphibious chart
+amphibious command ship
+amphibious construction battalion
+amphibious control group
+amphibious demonstration
+amphibious force
+amphibious group
+amphibious lift
+amphibious objective area
+amphibious objective study
+amphibious operation
+amphibious planning
+amphibious raid
+amphibious reconnaissance
+amphibious reconnaissance unit
+amphibious shipping
+amphibious squadron
+amphibious striking forces
+amphibious task force
+amphibious tractor
+amphibious transport dock
+amphibious transport group
+amphibious vehicle
+amphibious vehicle availability table
+amphibious vehicle employment plan
+amphibious vehicle launching area
+amphibious withdrawal
+analysis and production
+anchorage
+anchor cable
+anchor line extension kit
+annex
+annotated print
+annotation
+annual screening
+annual training
+antemortem identification media
+antenna mine
+antiarmor helicopter
+anticountermining device
+antideficiency violations
+anti-G suit
+antilift device
+antimateriel agent
+antimateriel operation
+antipersonnel mine (land mine warfare)
+antiradiation missile
+antirecovery device
+antisubmarine action
+antisubmarine air distant support
+antisubmarine air search attack unit
+antisubmarine barrier
+antisubmarine close air support
+antisubmarine operation
+antisubmarine patrol
+antisubmarine screen
+antisubmarine search
+antisubmarine support operation
+antisubmarine warfare
+antisubmarine warfare forces
+antisurface air operation
+antisweep device
+antisweeper mine
+antitank helicopter
+antitank mine
+antiterrorism
+antiwatching device
+any Service member mail
+apogee
+apparent horizon
+apparent precession
+appendix
+applicable materiel assets
+application
+apportionment
+apportionment (air)
+approach clearance
+approach end of runway
+approach lane
+approach march
+approach schedule
+approach sequence
+approach time
+approval authority
+apron
+archipelagic sea lanes passage
+architecture
+area air defense commander
+area assessment
+area bombing
+area command
+area control center
+area damage control
+area of influence
+area of interest
+area of limitation
+area of militarily significant fallout
+area of northern operations
+area of operations
+area of responsibility
+area of separation
+area operations
+area oriented
+area radar prediction analysis
+area search
+area target
+armament delivery recording
+armed forces
+armed forces censorship
+armed forces courier
+Armed Forces Courier Service
+armed forces courier station
+Armed Forces of the United States
+Armed Forces Radio and Television Service
+armed mine
+armed reconnaissance
+armed sweep
+arming
+arming delay device
+arming pin
+arming system
+armistice
+armistice demarcation line
+arm or de-arm
+armored personnel carrier
+arms control agreement
+arms control agreement verification
+arms control measure
+Army Air Defense Command Post
+Army air-ground system
+Army and Air Force Exchange Service imprest fund activity
+Army base
+Army corps
+Army service area
+Army Service component command
+Army space support team
+Army special operations component
+Army special operations forces
+Army tactical data link 1
+arresting barrier
+arresting gear
+arrival zone
+artificial horizon
+artillery fire plan table
+artillery survey control point
+assault
+assault aircraft
+assault area
+assault area diagram
+assault craft
+assault craft unit
+assault echelon
+assault fire
+assault follow-on echelon
+assault phase
+assault schedule
+assault shipping
+assault wave
+assembly
+assembly anchorage
+assembly area
+assessment
+assessment agent
+asset visibility
+assign
+assistance in kind
+assumed azimuth
+assumed grid
+assumption
+astern fueling
+asymmetrical sweep
+atmospheric environment
+at my command
+atomic air burst
+atomic demolition munition
+atomic underground burst
+atomic underwater burst
+atomic warfare
+atomic weapon
+at priority call
+at sea
+attach
+attachment
+attack assessment
+attack cargo ship
+attack group
+attack heading
+attack origin
+attack pattern
+attack position
+attack timing
+attenuation
+attenuation factor
+attitude
+attitude indicator
+attrition
+attrition minefield
+attrition rate
+attrition reserve aircraft
+attrition sweeping
+augmentation forces
+authenticate
+authentication
+authenticator
+authorized departure
+autocode format
+automated data handling
+automated identification technology
+Automated Repatriation Reporting System
+automatic approach and landing
+automatic data handling
+automatic data processing
+automatic flight control system
+automatic message processing system
+automatic resupply
+automatic search jammer
+automatic supply
+automation network
+autonomous operation
+availability date
+available payload
+available-to-load date
+avenue of approach
+average speed
+aviation combat element
+aviation life support equipment
+aviation medicine
+aviation ship
+axial route
+axis of advance
+azimuth
+azimuth angle
+azimuth guidance
+azimuth resolution
